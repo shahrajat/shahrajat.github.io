@@ -233,7 +233,20 @@ img {
     border-width: 0 1px 1px;
   }
 }
-
+.nav-search-link .nav-search-icon {
+  display: none;
+}
+.nav-search-link .nav-search-text {
+  display: inline;
+}
+@media only screen and (min-width: 768px) {
+  .nav-search-link .nav-search-icon {
+    display: inline;
+  }
+  .nav-search-link .nav-search-text {
+    display: none;
+  }
+}
 /* --- Footer --- */
 
 footer {
