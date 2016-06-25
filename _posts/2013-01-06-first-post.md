@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Not just another day...
+published: true
 ---
 
 
