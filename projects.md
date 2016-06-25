@@ -12,7 +12,7 @@ A collection of projects in have done either in my free time or during Masters a
 
 ## Data Science/Machine Learning Projects
 
--  **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender)** - a popular Jekyll theme I created when making this website.  You can [view a demo](http://deanattali.com/beautiful-jekyll/) or use it yourself to make a pretty website similar to this one by visiting the [project page](https://github.com/daattali/beautiful-jekyll#readme). The theme is extremely easy to install - you can have a site up and running in 2 minutes, and it is designed to look great on both mobile devices and laptops.
+-  **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender)** - A recommender system that will recommend new musical artists to a user based on their listening history. Suggesting different songs or musical artists to a user is important to many music streaming services, such as Pandora and Spotify. In addition, this type of recommender system could also be used as a means of suggesting TV shows or movies to a user (e.g., Netflix).
 
 ## Web Development
 
