@@ -11,17 +11,12 @@ Being apprehensive, I wondered while parking:
 After sunset, few 100 pics and girls' shopping: "_Well, it's getting late so we should hurry a bit as the roadway back to Baga isn't so straightforward._"
 
 On reaching back to parking: 
-"_Eh, I remember parking my bike in front of this pole. Guys, I am unable to find my bike!_". 
-
-"Someone might have moved it around, look properly Rajat."
-
-"_Hmm, lemme check around again._"
-
-Wondering: "_Oh god, why did I have that intuition while parking? Don't be worried, it must be somewhere near. It's already getting late and this sad luck of mine._"
+"_Eh, I remember parking my bike in front of this pole. Guys, I am unable to find my bike!_". <br/>
+"Someone might have moved it around, look properly Rajat."<br/>
+"_Hmm, lemme check around again._"<br/>
+Wondering: "_Oh god, why did I have that intuition while parking? Don't be worried, it must be somewhere near. It's already getting late and this sad luck of mine._" <br/>
 "Found?"
-
-"No, am still searching but am sure it's supposed to be somewhere near this pole. Help me out please.“
-
+"No, am still searching but am sure it's supposed to be somewhere near this pole. Help me out please.“<br/>
 And I told them my bike number.
 
 It was dusking and we were still struggling to find my bike. Feeling abjected, I called up one of our friends and asked him to contact the vendor to suggest something. He simply asked us to return from there before its too dark. But we didn't have free pillion rides and going tripsy would be too risky. Stranded far from the hotel, we watched others leaving till it was 7 PM and there were very few bikes left. Asking the inhabitants wasn't fruitful, but they somehow convinced us that bike theft is aberrant in Goa and that you should look around and wait for someone to return it.
