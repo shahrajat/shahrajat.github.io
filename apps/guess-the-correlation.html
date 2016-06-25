@@ -3,6 +3,119 @@ layout: page
 title: Guess the Correlation Game
 css: "/css/main.css"
 ---
+<style>
+        #content {
+		width: 1320px;
+		margin: 0 auto;
+		height: 524px;
+		margin-top: 30px;
+		}
+		#input, #output{
+			height: 100%;
+			padding: 14px;
+            margin: 0px auto;
+            padding-top: 1px; 
+            background: #ffffff;
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px;
+            -webkit-box-shadow: 3px 0px 12px #DCDCDC;
+            border-color: #B5B5B5;
+		    border-style: solid;
+		    border-width: 1px;
+		}
+        #input {
+            width: 33%;
+            float: left;
+        }
+        #output {
+            width: 60%; 
+            float: right;
+        }
+        #debug {
+            color: red;
+        }
+        #inputForm {
+             
+        } 
+        
+        button {
+            display: block;
+            font-size: 1.1em;
+            font-weight: bold;
+            text-transform: uppercase;
+            padding: 10px 15px;
+            margin: 20px auto;
+            color: #ccc;
+            background-color: #555;
+            background: -webkit-linear-gradient(#888, #555);
+            background: linear-gradient(#888, #555);
+            border: 0 none;
+            border-radius: 3px;
+            text-shadow: 0 -1px 0 #000;
+            box-shadow: 0 1px 0 #666, 0 5px 0 #444, 0 6px 6px rgba(0, 0, 0, 0.6);
+            cursor: pointer;
+            -webkit-transition: all 150ms ease;
+            transition: all 150ms ease;
+        }
+        button:hover,
+        button:focus {
+            -webkit-animation: pulsate 1.2s linear infinite;
+            animation: pulsate 1.2s linear infinite;
+        }
+        @-webkit-keyframes pulsate {
+            0% {
+                color: #ddd;
+                text-shadow: 0 -1px 0 #000;
+            }
+            50% {
+                color: #fff;
+                text-shadow: 0 -1px 0 #444, 0 0 5px #ffd, 0 0 8px #fff;
+            }
+            100% {
+                color: #ddd;
+                text-shadow: 0 -1px 0 #000;
+            }
+        }
+        @keyframes pulsate {
+            0% {
+                color: #ddd;
+                text-shadow: 0 -1px 0 #000;
+            }
+            50% {
+                color: #fff;
+                text-shadow: 0 -1px 0 #444, 0 0 5px #ffd, 0 0 8px #fff;
+            }
+            100% {
+                color: #ddd;
+                text-shadow: 0 -1px 0 #000;
+            }
+        }
+        button:active {
+            color: #fff;
+            text-shadow: 0 -1px 0 #444, 0 0 5px #ffd, 0 0 8px #fff;
+            box-shadow: 0 1px 0 #666, 0 2px 0 #444, 0 2px 2px rgba(0, 0, 0, 0.9);
+            -webkit-transform: translateY(3px);
+            transform: translateY(3px);
+            -webkit-animation: none;
+            animation: none;
+        }
+    </style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+<script> 
+     var r = 0;
+     function printValue(sliderID, textbox) {
+        var x = document.getElementById(textbox);
+        var y = document.getElementById(sliderID);
+        x.value = y.value;
+    }
+    function showAnswer(){
+    	document.getElementById("answer").innerHTML = "Correlation: "+ r.toString();
+    }
+</script>
 
 <div id="input"> 
             <form name="inputForm" id="inputForm" action="#" style="min-height: 250px;border-bottom: 1px solid;padding: 22px;"> 
@@ -22,7 +135,7 @@ css: "/css/main.css"
 			This new $Y_1$ sequence will have a correlation of $\rho$ with the $X_1$ sequence.<br/>
         </div>
 
-        <div id="output">
+<div id="output">
             <center style="
     padding: 15px;
     color: #6d6d6d;
@@ -39,6 +152,7 @@ css: "/css/main.css"
         </div>
 
     </div>
+    
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 
 <script>
