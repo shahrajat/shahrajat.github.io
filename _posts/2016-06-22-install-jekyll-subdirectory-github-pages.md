@@ -5,7 +5,7 @@ date: '2016-06-22 20:54:40 -0700'
 categories: jekyll
 published: true
 ---
-Jekyll is one clever way of having a blog which doesn't require you to have any Database or Backend server. All it does is generate Static HTML pages from Markdown format which you can directly host on the Github Pages. Here I will step-by-step mention how I managed to host my website and blog all from GitHub pages. 
+Jekyll is one clever way of having a blog which doesn't require you to have any Database or Backend server. All it does is generate Static HTML pages from Markdown format which you can directly host on the Github Pages. Here I will step-by-step guide on how to host a website and blog all from GitHub pages. 
 
 - Estimated time: 15 Minutes
 - Outcome: GitHub website and blog hosted similar to [http://shahrajat.github.io](http://shahrajat.github.io) and [http://shahrajat.github.io/blog](http://shahrajat.github.io/blog)
