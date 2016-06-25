@@ -37,7 +37,6 @@ I choose to speak in favor of India and to be firm that 'India has enough potent
 
 'No, we have already experienced days of humiliation and extreme shame, when we hosted Common Wealth Games, and unless all the corrupts are eradicated from this land, we should better not involve our self in hosting another huge event. Also the natives of our country is not well aware of all the events that are conducted in any Olympics and hence we should first spread awareness and make them fit to play and win a name for the country.' I countered them by saying firmly 'How long do you think will it take to completely eradicate corruption and other such problems from our society? You think will it ever vanish? And don't you think that waiting for the sports person be aware and fit for the event would take longer than if we directly host the event and publicize it through various media?', these points were ample to leave them either dumbstruck or incline on my side. I thought 'I have now made my point and should hold a better chance to be short-listed for the interview tomorrow', so I spoke little in the last few minutes of the discussion.
 
-<pre>
 Long story short:
 .
 .
@@ -51,4 +50,3 @@ Headed Radisson-Blu after final selection :)
 .
 .
 2 months of awesomeness in Bangalore!
-</pre>
