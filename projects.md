@@ -14,14 +14,12 @@ A collection of key projects in have done either in my free time or during Maste
 
 Includes Projects from courses taken at NC State University: Machine Learning for User Adaptive Systems, Algorithms for Data Guided Business Intelligence, Foundation of Data Science
 
--  **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender)** - A recommender system that will recommend new musical artists to a user based on their listening history. Suggesting different songs or musical artists to a user is important to many music streaming services, such as Pandora and Spotify. In addition, this type of recommender system could also be used as a means of suggesting TV shows or movies to a user (e.g., Netflix).
+-  **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - A recommender system that will recommend new musical artists to a user based on their listening history. Suggesting different songs or musical artists to a user is important to many music streaming services, such as Pandora and Spotify. In addition, this type of recommender system could also be used as a means of suggesting TV shows or movies to a user (e.g., Netflix).
 
 -  **[Anomaly Detection in Time Evolving Networks](https://github.com/shahrajat/Data-Science/tree/master/anomaly-detection){:target="_blank"}** - Implemented Signature Similarity method for detecting Anomaly in time evolving graphs.  Because of the way the similarity is calculated, anomalous graphs are identified by two consecutive anomalous time points in the output.<br/>
 Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf){:target="_blank"}
 
 -  **[Adwords Placement](https://github.com/shahrajat/Data-Science/tree/master/adwords-placement){:target="_blank"}** - Given that advertisement giants like Google, Yahoo only make revenue only if the viewer clicks the ads, it's important to make the decision of which Ads should be shown (in limited number of ads slots available) depending on the query typed. Implemented Greedy, MSVV, and Balance algorithms in R for a very simplified version of this problem statement. MSSV beats other algorithms in terms of total revenue generated.
-
-- 
 
 ## Web Development
 
