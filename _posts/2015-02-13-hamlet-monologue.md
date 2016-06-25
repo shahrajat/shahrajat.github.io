@@ -24,10 +24,10 @@ It was dusking and we were still struggling to find my bike. Feeling abjected, I
 After searching for the bike for all we were worth: "Am pretty sure the Activa is stolen! God knows who's gonna pay for it now; 50-50 split between me and her (pillion rider)? Will be taken from the buffer money we all had given initially? Uff".
 We soon heard chatters nearby: "Arrr... this one is our Activa and we took the wrong one. Lets just leave it here and take ours." That struck a bell in me and we walked up to them curious about their situation: 
 
-"What happened to you?". 
-"We mistakenly picked the wrong Activa with similar looks and realized later." 
-"How is that even possible? Your key worked in some other bike?"
-"Surprisingly, yes."
+"What happened to you?". <br/>
+"We mistakenly picked the wrong Activa with similar looks and realized later." <br/>
+"How is that even possible? Your key worked in some other bike?"<br/>
+"Surprisingly, yes."<br/>
 Wondering: "Oh, now I get everything. It must be a circular chain and the owner of this bike is the one having mine. Lemme just try my key in this one."
 
 After they left, somewhat lucky me was able to get my key working in the other bike. Confused about my next step, a nearby inhabitant suggested that the bike you are trying is of Baga only and you can probably exchange once you reach there. Not waiting for another though, we all happily left from the spot.
@@ -40,15 +40,15 @@ It was smooth ride for the next 6-7 Kilometres and the pleasant view of Cruises 
 
 Being a clear highway, we were speeding up to 60 KPH and joyfully riding following each other so as to make sure no one is left out. Overtaking me, another bike came speeding up next to me, asking to stop and stand aside. Being nervous and confused, I stopped and also asked others to wait for me.
 
-Those Guys accosted me: "Dude whose bike are you riding?"
-Deceiving reply: "Obviously mine!"
-With slight anger: "You better come clean, coz we have got the proof that it's ours"
-"Show it!"
-"Luckily, today we took a random photo while riding and the number plate is clearly visible in it!" and they showed it to us.
-Saddened by pic: "Damn! FML! How can someone find his lost bike hours later in this goddamn widespread city? That too on the go!  And even if hand over this bike to them... where the freak is my bike? There was no circular chain after-all, as anticipated. I am the unlucky one who will be eventually left with no bike!"
+Those Guys accosted me: "Dude whose bike are you riding?"<br/>
+Deceiving reply: "Obviously mine!"<br/>
+With slight anger: "You better come clean, coz we have got the proof that it's ours"<br/>
+"Show it!"<br/>
+"Luckily, today we took a random photo while riding and the number plate is clearly visible in it!" and they showed it to us.<br/>
+Saddened by pic: "Damn! FML! How can someone find his lost bike hours later in this goddamn widespread city? That too on the go!  And even if hand over this bike to them... where the freak is my bike? There was no circular chain after-all, as anticipated. I am the unlucky one who will be eventually left with no bike!"<br/>
 “Ok, I accept my blunder, but am currently helpless and we need to reach Baga before it’s too late.”
 And I made them patiently listen to my story about how we landed up in this situation. Probably my innocent face did the trick. Also seeing girls with us, they were somewhat convinced.
-“Not our problem dude, even we need to reach there, but we also don’t have enough bikes and my friends are helplessly waiting at Dona Paula. Thank God we didn't lose hope and kept looking at the bikes crossing on this way. We were about to go Police Station but preferred to wait on the roadside and kept checking all the bikes from Dona Paula route. I can collaborate with you later, but first I need to bring them back from there.”
+“Not our problem dude, even we need to reach there, but we also don’t have enough bikes and my friends are helplessly waiting at Dona Paula. Thank God we didn't lose hope and kept looking at the bikes crossing on this way. We were about to go Police Station but preferred to wait on the roadside and kept checking all the bikes from Dona Paula route. I can collaborate with you later, but first I need to bring them back from there.”<br/>
 
 Cursing my ill-fate, I unwillingly handed over them the bike. Seeking help and suggestion, me and my friends made a number of phone calls to other friends and the vendor.
 
