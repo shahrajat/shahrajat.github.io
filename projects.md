@@ -14,7 +14,7 @@ A collection of projects in have done either in my free time or during Masters a
 
 -  **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender)** - A recommender system that will recommend new musical artists to a user based on their listening history. Suggesting different songs or musical artists to a user is important to many music streaming services, such as Pandora and Spotify. In addition, this type of recommender system could also be used as a means of suggesting TV shows or movies to a user (e.g., Netflix).
 
--  **[Anomaly Detection in Time Evolving Networks](https://github.com/shahrajat/Data-Science/tree/master/music-recommender)** - A recommender system that will recommend new musical artists to a user based on their listening history. Suggesting different songs or musical artists to a user is important to many music streaming services, such as Pandora and Spotify. In addition, this type of recommender system could also be used as a means of suggesting TV shows or movies to a user (e.g., Netflix).
+-  **[Anomaly Detection in Time Evolving Networks](https://github.com/shahrajat/Data-Science/tree/master/music-recommender)** - Implemented Signature Similarity method for detecting Anomaly in time evolving graphs.  Because of the way the similarity is calculated, anomalous graphs are identified by two consecutive anomalous time points in the output.
 Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf)
 
 ## Web Development
