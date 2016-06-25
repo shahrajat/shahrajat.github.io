@@ -20,12 +20,14 @@ Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanf
 
 -  **[Adwords Placement](https://github.com/shahrajat/Data-Science/tree/master/adwords-placement)** - Given that advertisement giants like Google, Yahoo only make revenue only if the viewer clicks the ads, it's important to make the decision of which Ads should be shown (in limited number of ads slots available) depending on the query typed. Implemented Greedy, MSVV, and Balance algorithms in R for a very simplified version of this problem statement. MSSV beats other algorithms in terms of total revenue generated.
 
+- 
+
 ## Web Development
 
 - **[shinyjs](https://github.com/daattali/shinyjs)** -  easily improve UX in your Shiny apps, adds useful features to Shiny apps, and call your own JavaScript functions using plain R code.  Also includes a colour picker.  Check out a [demo online](http://daattali.com/shiny/shinyjs-demo/). Available [on CRAN](https://cran.r-project.org/package=shinyjs) and [on GitHub](https://github.com/daattali/shinyjs).
 
-## Misc
+## Talks
 
-I have several cool Java games I wrote, but I currently don't have a way to host the applet online without paying way too much money to buy a certificate.  I might find a way around that in the future.
+- [2016] **[Recurrent Neural Networks](https://docs.google.com/presentation/d/1-Y3rc-Y1jryat7kkzpZStoprk2dc4fVnpmezkAcrv-c/pub?start=false&loop=false&delayms=10000&slide=id.g11048b17a6_0_51)** - Presented a brief overview and important applications of Recurrent Neural Networks in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html).
 
 ---
