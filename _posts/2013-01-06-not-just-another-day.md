@@ -20,7 +20,7 @@ Also fortunately (for me) only students with CGPA more than 7.23 were eligible f
 
 Now that I had an opportunity to prove myself mentally superior to my batch mates with better pointer (though I may not be) , and an grab an internship (though not at a company I dreamed of) I spent a week before the written test Googling various kind of aptitude problems that are frequently asked particularly in GS written tests. Also I read a few blogs which provided me a deep analysis of the level of problems in the written test and following Interviews. The important information I gleaned from them was “The written test is very hard and everyone feels short of time (usually 45 minutes for 20-25 aptitude and 10-12 technical questions related to C programming)”.Keeping this in mind, I went through a loads of questions to increase my speed, accuracy and confidence, and to make myself up to date with various short trick. Though I didn't get ample time to be at par with those in my batch who had spent their last 3 months preparing for CAT, after solving dozens of aptitude questions and reading experiences for others, one thing I was certain of was : since the time provided for the written test won't suffice to go through every the questions, at least I would be able to answer the easier ones with the proviso that I make the right selection of questions in the test.
 
-4th Nov 2012:
+**4th Nov 2012:**
 
 Finally, the day for the trial by ordeal arrived. It was Sunday evening and we had gathered near the Mathematics department where we were supposed to take the test. I sat with Bhaskar and Kapil besides me, hoping that I would get a chance to sniff into their answer sheet, but all in vain. The time allotted was not even sufficient to go through all the questions once. Still, I think that I managed to solve around 60% of them correctly. I had spent too much time in solving the aptitude questions that I was left with only 10 minutes to solve the 10 Technical ones. I quickly took a glance at all the questions, hoping to find the easier ones, but unfortunately, they were all lengthy and hard. I hardly solved 4-5 of them completely (without much satisfaction), guessed all the remaining ones in the end and handed over question paper and the answer sheets to the invigilators. After that we were provided 5 minutes to answer a subjective question “What makes you think you are the best candidate for this internship?” I can't recall exactly what I wrote, but I made sure to mention about the summer internship at IITB, hoping it would make little impact.
 
@@ -41,7 +41,7 @@ Long story short:
 .
 .
 .
-Got shortlisted for the first interview of my life,
+Got shortlisted for the first interview of my life
 .
 .
 .
