@@ -12,7 +12,7 @@ But you seamlessly sustain a great deal of frustration about academics when you 
 
 -at level 8 to 10 (screwed up!) - 
 
-> Oh 1PM is too early to get up at this time, but don't wanna skip the lunch feast and spend a dime. Net speed looks good, just few minutes spend - I would. DC++  seems spammed by ABC urging to join a CS clan, ah I am rather a Fifa'14 fan. Evening is here, time to purify the atmosphere; before a merry Bajaj Nagar trip to meet dear. No point return hostel for the mess(y) dinner, call-up a pal and grab a glass of beer!
+> Oh 1PM is too early to get up, but don't wanna skip the lunch feast and spend a dime. Net speed looks good, just few minutes spend - I would. DC++  seems spammed by ABC urging to join a CS clan, ah I am rather a Fifa'14 fan. Evening is here, time to purify the atmosphere; before a merry Bajaj Nagar trip to meet dear. No point return hostel for the mess(y) dinner, call-up a pal and grab a glass of beer!
 
 -at level 4 to 7 (I gotta resist the fun!)
 
