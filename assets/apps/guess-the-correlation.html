@@ -140,7 +140,7 @@
 	
     <div id="content">
         <div id="input"> 
-            <form name="inputForm" id="inputForm" action="#" style="min-height: 250px;border-bottom: 1px solid;padding: 22px;"> 
+            <div id="inputForm" style="min-height: 250px;border-bottom: 1px solid;padding: 22px;"> 
                 <center>
                     <button onclick="inputSubmit()" id="submitButton">New Challenge</button><br/>
                     -1<input id="slider" type ="range" min ="-1" max="1" step ="0.01" value="0" onchange="printValue('slider','rangeValue2')" style="width: 167px;"/>1<br/>
@@ -148,7 +148,7 @@
                     <button onclick="showAnswer()" id="submitButton1">Answer Please</button>
                     <div id="answer"></div>
                 </center>
-            </form>
+            </div>
 			
 			<b>Development Challenge:</b><br/>
 			<i>How to generate data points with given correlation "r"?</i><br/>
