@@ -11,9 +11,11 @@ Lot many things have changed in my life in the past 1 year. Exact 1 yr from this
 But you seamlessly sustain a great deal of frustration about academics when you look around. It's when you realize that you aren't alone. _Search for 5 and you will find fifty, look for one and you end up with none_! Considering degree of frustration varies on a scale of 1 to 10, on a typical weekend in hostel, this would be the scenario for those stuck - 
 
 -at level 8 to 10 (screwed up!) - 
+
 > Oh 1PM is too early to get up at this time, but don't wanna skip the lunch feast and spend a dime. Net speed looks good, just few minutes spend - I would. DC++  seems spammed by ABC urging to join a CS clan, ah I am rather a Fifa'14 fan. Evening is here, time to purify the atmosphere; before a merry Bajaj Nagar trip to meet dear. No point return hostel for the mess(y) dinner, call-up a pal and grab a glass of beer!
 
 -at level 4 to 7 (I gotta resist the fun!)
+
 > Oh 10AM and breakfast lasts another hour, should hurry before it's over.
 
 -at level 1 to 3 (Maa ka sapna puura karke rahuga!)
@@ -26,5 +28,3 @@ The discontent of academics, professors, mess food, and oh... weather in Nagpur!
 But, now that the time is over, yes never going back, I realize what I have gained through it. I don't mean the technical knowledge that obviously any university education is bound to provide, but there is much more to it.
 
 THE F.R.I.E.N.D.S. No matter how much I stress on it, importance of those friends, in my life, I made here can't be expressed in words.
-
-
