@@ -34,7 +34,7 @@ Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanf
 - [2016] **[CSC 591 ADBI: GD and/or SGD for Logistic Regression](https://docs.google.com/presentation/d/1ViSaw_DzYXfKMjt6JBoN1RbgIRVCkNj2q5XAG3wjPFU/pub?start=false&loop=false&delayms=10000)** - Gradient Descent and Stochastic Gradient Descent are techniques used in optimization of objective functions in various Machine Learning models. Presented it in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html).
 
 - [2013] 
-**[Introduction to Web Development](http://www.slideshare.net/rajatsshah/introduction-to-web-designing)** - Presented a brief overview and important applications of Gradient Descent and Stochastic Gradient Descent in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html).
+**[Introduction to Web Development](http://www.slideshare.net/rajatsshah/introduction-to-web-designing){:target="_blank"}** - Presented a brief overview and important applications of Gradient Descent and Stochastic Gradient Descent in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html).
 
 
 ---
