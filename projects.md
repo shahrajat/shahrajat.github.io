@@ -23,7 +23,7 @@ Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanf
 
 ## Web Development
 
-- **[shinyjs](https://github.com/daattali/shinyjs)** -  easily improve UX in your Shiny apps, adds useful features to Shiny apps, and call your own JavaScript functions using plain R code.  Also includes a colour picker.  Check out a [demo online](http://daattali.com/shiny/shinyjs-demo/). Available [on CRAN](https://cran.r-project.org/package=shinyjs) and [on GitHub](https://github.com/daattali/shinyjs).
+- [Ongoing] **[spamtest](https://spamtest.herokuapp.com/){:target="_blank"}** - Building a Django Python Web app for predicting if an email content is spam. Predicts the spamminess score based on a ML model pre-trained on huge dataset.
 
 ## Talks
 
