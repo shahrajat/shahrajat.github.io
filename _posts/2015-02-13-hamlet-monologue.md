@@ -15,8 +15,8 @@ On reaching back to parking:
 "Someone might have moved it around, look properly Rajat."<br/>
 "_Hmm, lemme check around again._"<br/>
 Wondering: "_Oh god, why did I have that intuition while parking? Don't be worried, it must be somewhere near. It's already getting late and this sad luck of mine._" <br/>
-"Found?"
-"No, am still searching but am sure it's supposed to be somewhere near this pole. Help me out please.“<br/>
+"Found?"<br/>
+"_No, am still searching but am sure it's supposed to be somewhere near this pole. Help me out please._“<br/>
 And I told them my bike number.
 
 It was dusking and we were still struggling to find my bike. Feeling abjected, I called up one of our friends and asked him to contact the vendor to suggest something. He simply asked us to return from there before its too dark. But we didn't have free pillion rides and going tripsy would be too risky. Stranded far from the hotel, we watched others leaving till it was 7 PM and there were very few bikes left. Asking the inhabitants wasn't fruitful, but they somehow convinced us that bike theft is aberrant in Goa and that you should look around and wait for someone to return it.
@@ -41,13 +41,13 @@ It was smooth ride for the next 6-7 Kilometres and the pleasant view of Cruises 
 Being a clear highway, we were speeding up to 60 KPH and joyfully riding following each other so as to make sure no one is left out. Overtaking me, another bike came speeding up next to me, asking to stop and stand aside. Being nervous and confused, I stopped and also asked others to wait for me.
 
 Those Guys accosted me: "Dude whose bike are you riding?"<br/>
-Deceiving reply: "Obviously mine!"<br/>
+Deceiving reply: "_Obviously mine!_"<br/>
 With slight anger: "You better come clean, coz we have got the proof that it's ours"<br/>
-"Show it!"<br/>
+"_Show it!_"<br/>
 "Luckily, today we took a random photo while riding and the number plate is clearly visible in it!" and they showed it to us.<br/>
-Saddened by pic: "Damn! FML! How can someone find his lost bike hours later in this goddamn widespread city? That too on the go!  And even if hand over this bike to them... where the freak is my bike? There was no circular chain after-all, as anticipated. I am the unlucky one who will be eventually left with no bike!"<br/>
-“Ok, I accept my blunder, but am currently helpless and we need to reach Baga before it’s too late.”
-And I made them patiently listen to my story about how we landed up in this situation. Probably my innocent face did the trick. Also seeing girls with us, they were somewhat convinced.
+Saddened by pic: "_Damn! FML! How can someone find his lost bike hours later in this goddamn widespread city? That too on the go!  And even if hand over this bike to them... where the freak is my bike? There was no circular chain after-all, as anticipated. I am the unlucky one who will be eventually left with no bike!_"<br/>
+“_Ok, I accept my blunder, but am currently helpless and we need to reach Baga before it’s too late._”<br/>
+And I made them patiently listen to my story about how we landed up in this situation. Probably my innocent face did the trick. Also seeing girls with us, they were somewhat convinced.<br/>
 “Not our problem dude, even we need to reach there, but we also don’t have enough bikes and my friends are helplessly waiting at Dona Paula. Thank God we didn't lose hope and kept looking at the bikes crossing on this way. We were about to go Police Station but preferred to wait on the roadside and kept checking all the bikes from Dona Paula route. I can collaborate with you later, but first I need to bring them back from there.”<br/>
 
 Cursing my ill-fate, I unwillingly handed over them the bike. Seeking help and suggestion, me and my friends made a number of phone calls to other friends and the vendor.
@@ -67,9 +67,10 @@ Peacefully reached destination at 12.30 AM.
 
 Later, same night after dinner, I came across the 2 guys (whose bike we poached(??)) in Titos lane and chatted with them for a while. The last coincidence!
 
-Lessons learnt:
-Handle lock is a must!
-3 Bikes at same location can have same key!
-There is a place called police station inhibited by police-walas with insatiable greed!
-Coincidences aren't always welcomed
+Lessons learnt:<br/>
+- Handle lock is a must!
+- 3 Bikes at same location can have same key!
+- There is a place called police station inhibited by police-walas with insatiable greed!
+- Coincidences aren't always welcomed
+
 PS: How our bike reached the police station is still enigmatic! (One of the policeman himself created this plot for easy money?? We didn't bother to ponder at that.)
