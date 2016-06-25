@@ -21,6 +21,7 @@ But you seamlessly sustain a great deal of frustration about academics when you 
 -at level 1 to 3 (Maa ka sapna puura karke rahuga!)
 
 > OMG, It's 8AM and the entire corridor is asleep, grab this opportunity for an assignment leap. 
+
 As a wise man quoted - "These walls are funny. First you hate 'em, then you get used to 'em. Enough time passes, you get so you depend on them. That's institutionalized." By the time you get to used to the people, place and non-sense around, you realize that the final days are already near. Eventually, you think - it's the time I get the freedom I deserve, get out of the cage, fly endlessly for the rest of the life! It's over, the burden to perform better in the next exam, the stress to make-up excuses after the results are out, and ultimately, the pressure to stand out of the crowd!
 
 The discontent of academics, professors, mess food, and oh... weather in Nagpur!
