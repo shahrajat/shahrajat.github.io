@@ -18,7 +18,6 @@ On reaching back to parking:
 "_Hmm, lemme check around again._"
 
 Wondering: "_Oh god, why did I have that intuition while parking? Don't be worried, it must be somewhere near. It's already getting late and this sad luck of mine._"
-
 "Found?"
 
 "No, am still searching but am sure it's supposed to be somewhere near this pole. Help me out please.“
