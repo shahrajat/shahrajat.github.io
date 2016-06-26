@@ -36,7 +36,7 @@ I really enjoy building web applications, whether big or small. Throughout my ti
     
      - [2015] **[Minified Guess the Correlation Game](http://shahrajat.com/assets/apps/guess-the-correlation.html?#){:target="_blank"}** - Built a minified version of the famous Guess the correlation game.
      - [2014] **[Simple Linear Regression](http://shahrajat.com/assets/apps/simple-linear-regression.html?#){:target="_blank"}** - Computes the Linear Regression line for two variables.
-     - [2013] **[A* JavaScript](http://shahrajat.com/assets/apps/simple-linear-regression.html?#){:target="_blank"}** - A* pathfinding algorithm JavaScript implementation.
+     - [2013] **[A* JavaScript](http://shahrajat.com/assets/apps/astar.html){:target="_blank"}** - A* pathfinding algorithm JavaScript implementation.
 
 ## Talks
 
