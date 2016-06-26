@@ -5,4 +5,4 @@ comments: true
 published: true
 ---
 
-<iframe src="http://shahrajat.com/assets/Rajat_Shah_Resume.pdf" style="width:800px; height:1500px;" frameborder="0"></iframe>
+<iframe src="http://shahrajat.com/assets/Rajat_Shah_Resume.pdf" style="width:800px; height:900px;" frameborder="0"></iframe>
