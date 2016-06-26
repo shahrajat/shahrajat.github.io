@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Projects/Publications
 subtitle: What's been eating away my free time
 comments: true
 published: true
@@ -9,8 +9,11 @@ published: true
 A collection of key projects in have done either in my free time or during Masters and Bachelors studies. 
 
 ---
+## Publications
 
-## Data Science/Machine Learning Projects
+Yuan Zhang, Rajat Shah and M. Chi, **Deep Learning + Student Modeling + Clustering: a Recipe for Effective Automatic Short Answer Grading**, The 9th International Conference on Educational Data Mining (EDM2016).
+
+## Data Science/Machine Learning
 
 Includes Projects from courses taken at NC State University: Machine Learning for User Adaptive Systems, Algorithms for Data Guided Business Intelligence, Foundation of Data Science
 
@@ -29,6 +32,8 @@ Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanf
 I really enjoy building web applications, whether big or small. Throughout my time in undergrad schoo, I lead the development of web portals for several technical events and clubs.
 
 - [Ongoing] **[spamtest](https://spamtest.herokuapp.com/){:target="_blank"}** - Building a Django Python Web app for predicting if an email content is spam. Predicts the spamminess score based on a ML model pre-trained on huge dataset.
+
+- 
 
 - [2011-12] **VLive - VNIT's Social Networking Website** - I feel most proud of building it from scratch using JavaScript, PHP and MySQL during the winter break of my sophomore year in undergrad school. 2 dedicated months, 5 team members and a bunch of awesome features like - forum discussion, facebook style chat, video call and notice board. Unfortunately it was hosted on internal college servers and hence inaccessible from outside.
 
