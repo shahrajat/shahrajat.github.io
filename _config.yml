@@ -24,7 +24,7 @@ description: Hi, I'm Rajat
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+  Projects/Publications: "projects"
   Resume/CV: "http://shahrajat.com/assets/Rajat_Shah_Resume.pdf"
 #  nav-search: "search"
 
