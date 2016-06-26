@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects/Publications
+title: Projects
 subtitle: What's been eating away my free time
 comments: true
 published: true
@@ -9,10 +9,6 @@ published: true
 A collection of key projects in have done either in my free time or during Masters and Bachelors studies. 
 
 ---
-
-## Publications
-
-Yuan Zhang, Rajat Shah and M. Chi, **Deep Learning + Student Modeling + Clustering: a Recipe for Effective Automatic Short Answer Grading**, The 9th International Conference on Educational Data Mining (EDM2016).
 
 ## Data Science/Machine Learning
 
@@ -34,7 +30,7 @@ I really enjoy building web applications, whether big or small. Throughout my ti
 
 - [Ongoing] **[spamtest](https://spamtest.herokuapp.com/){:target="_blank"}** - Building a Django Python Web app for predicting if an email content is spam. Predicts the spamminess score based on a ML model pre-trained on huge dataset.
 
-- [2013-14] **Events Portal** - Developed VNIT's Annual Management festival (Consortium'12), and lead development of Annual Technical festival (AXIS'13) web portals. Handling thousands of participants' data, optimizing webpages for faster load speed was a challenge.
+- [2013-14] **Events Portal** - Developed VNIT's Annual Management festival (Consortium'12), and lead development of Annual Technical festival (AXIS'13) web portals. Handling thousands of participants' data, optimizing webpages
 
 - [2011-12] **VLive - VNIT's Social Networking Website** - I feel most proud of building it from scratch using JavaScript, PHP and MySQL during the winter break of my sophomore year in undergrad school. 2 dedicated months, 5 team members and a bunch of awesome features like - forum discussion, facebook style chat, video call and notice board. Unfortunately it was hosted on internal college servers and hence inaccessible from outside.
 
