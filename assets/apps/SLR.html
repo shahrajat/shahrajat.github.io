@@ -1,0 +1,322 @@
+<html>
+
+<head>
+    <title>Simple Linear Regression Visualization</title>
+	<link rel="stylesheet" href="../main.css">
+    <style>
+        #content {
+		width: 1320px;
+		margin: 0 auto;
+		height: 524px;
+		}
+		#input, #output{
+			height: 100%;
+			padding: 14px;
+            margin: 0px auto;
+            padding-top: 1px; 
+            background: #ffffff;
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px;
+            -webkit-box-shadow: 3px 0px 12px #DCDCDC;
+            border-color: #B5B5B5;
+		    border-style: solid;
+		    border-width: 1px;
+		}
+        #input {
+            width: 33%;
+            float: left;
+        }
+        #output {
+            width: 60%; 
+            float: right;
+        }
+        #debug {
+            color: red;
+        }
+        #inputForm {
+             
+        }
+        #xVector,
+        #yVector {
+            background: #F8F8F8;
+            color: #999999;
+            border: 1px solid #DCDCDC;
+            border-radius: 5px;
+            font-size: 18px;
+            width: 99%;
+            padding: 9px;
+            box-shadow: 6px 0px 16px #DCDCDC;
+            -webkit-box-shadow: 6px 0px 9px #DCDCDC;
+            -moz-box-shadow: 6px 0px 16px #DCDCDC;
+            height: 24%;
+        }
+        #xLabel,
+        #yLabel {
+            padding: 9px;
+            box-shadow: 6px 0px 16px #DCDCDC;
+            -webkit-box-shadow: 6px 0px 9px #DCDCDC;
+            -moz-box-shadow: 6px 0px 16px #DCDCDC;
+            background: #F8F8F8;
+            color: #999999;
+            border: 1px solid #DCDCDC;
+            border-radius: 3px;
+        }
+        #xSeperator,
+        #ySeperator {
+            width: 34px;
+            padding: 9px;
+            box-shadow: 6px 0px 16px #DCDCDC;
+            -webkit-box-shadow: 6px 0px 9px #DCDCDC;
+            -moz-box-shadow: 6px 0px 16px #DCDCDC;
+            background: #F8F8F8;
+            color: #999999;
+            border: 1px solid #DCDCDC;
+            border-radius: 3px;
+        }
+        button {
+            display: block;
+            font-size: 1.1em;
+            font-weight: bold;
+            text-transform: uppercase;
+            padding: 10px 15px;
+            margin: 20px auto;
+            color: #ccc;
+            background-color: #555;
+            background: -webkit-linear-gradient(#888, #555);
+            background: linear-gradient(#888, #555);
+            border: 0 none;
+            border-radius: 3px;
+            text-shadow: 0 -1px 0 #000;
+            box-shadow: 0 1px 0 #666, 0 5px 0 #444, 0 6px 6px rgba(0, 0, 0, 0.6);
+            cursor: pointer;
+            -webkit-transition: all 150ms ease;
+            transition: all 150ms ease;
+        }
+        button:hover,
+        button:focus {
+            -webkit-animation: pulsate 1.2s linear infinite;
+            animation: pulsate 1.2s linear infinite;
+        }
+        @-webkit-keyframes pulsate {
+            0% {
+                color: #ddd;
+                text-shadow: 0 -1px 0 #000;
+            }
+            50% {
+                color: #fff;
+                text-shadow: 0 -1px 0 #444, 0 0 5px #ffd, 0 0 8px #fff;
+            }
+            100% {
+                color: #ddd;
+                text-shadow: 0 -1px 0 #000;
+            }
+        }
+        @keyframes pulsate {
+            0% {
+                color: #ddd;
+                text-shadow: 0 -1px 0 #000;
+            }
+            50% {
+                color: #fff;
+                text-shadow: 0 -1px 0 #444, 0 0 5px #ffd, 0 0 8px #fff;
+            }
+            100% {
+                color: #ddd;
+                text-shadow: 0 -1px 0 #000;
+            }
+        }
+        button:active {
+            color: #fff;
+            text-shadow: 0 -1px 0 #444, 0 0 5px #ffd, 0 0 8px #fff;
+            box-shadow: 0 1px 0 #666, 0 2px 0 #444, 0 2px 2px rgba(0, 0, 0, 0.9);
+            -webkit-transform: translateY(3px);
+            transform: translateY(3px);
+            -webkit-animation: none;
+            animation: none;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+    	<a class="ios-6-arrow left blue" style="float:left" href="http://shahrajat.github.io/projects" data-title="projects"></a>
+        <h2 style="
+        padding: 5px;
+    color: #6d6d6d;
+    font-family: 'Raleway',Helvetica,Arial;
+       font-size: 27px;
+    border-bottom: 1px solid #dcdcdc;
+    text-align: center;
+    display: block;
+">Simple Linear Regression</h2>
+    </center>
+	
+    <div id="content">
+        <div id="input">
+            <center style="padding: 15px;color: #6d6d6d;font-family: 'Raleway',Helvetica,Arial;font-size: 24px; 
+  border-bottom: 1px solid #dcdcdc;text-align: center; display: block;">Input</center>
+            <form name="inputForm" id="inputForm" action="#">
+                <br/> Feature Vector (X) :
+                <br/>
+                <textarea id="xVector">1,5,10,15,30,50</textarea>
+                <br/> X-Label:
+                <input type="text" id="xLabel" value="X-Values"> Seperator:
+                <input type="text" id="xSeperator" value=",">
+
+                <br/>
+                <br/> Vector (Y) :
+                <br/>
+                <textarea id="yVector">20;30;60;90;100;130</textarea>
+                <br/> Y-Label:
+                <input type="text" id="yLabel" value="Y-Values"> Seperator:
+                <input type="text" id="ySeperator" value=";">
+                <br/>
+                <center>
+                    <button onclick="inputSubmit()" id="submitButton">Show Plot</button>
+                </center>
+            </form>
+
+        </div>
+
+        <div id="output">
+            <center style="
+    padding: 15px;
+    color: #6d6d6d;
+    font-family: 'Raleway',Helvetica,Arial;
+    font-size: 24px;
+    border-bottom: 1px solid #dcdcdc;
+    text-align: center;
+    display: block;
+">Scatter Plot</center>
+            <div id="debug"></div>
+            <!--Div that will hold the pie chart-->
+            <div id="chart_div"></div>
+			<div id="equation"></html>
+        </div>
+
+    </div>
+	
+	<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+     
+    var disqus_config = function () {
+        this.page.url = "https://shahrajat.github.io/projects/SLR.html";  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = "rajatshah"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+     
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//rajatshah.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+</body>
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+
+<script>
+    //creating chart
+
+    google.load("visualization", "1", {
+        packages: ["corechart"]
+    });
+    //google.setOnLoadCallback(drawChart);
+
+    function drawChart(data, option) {
+        var chart = new google.visualization.ScatterChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+    }
+
+    function inputSubmit() {
+        inputForm = document.getElementById("inputForm");
+
+        xString = inputForm.elements["xVector"].value;
+        xSeperator = inputForm.elements["xSeperator"].value;
+        xLabel = inputForm.elements["xLabel"].value;
+
+        yString = inputForm.elements["yVector"].value;
+        ySeperator = inputForm.elements["ySeperator"].value;
+        yLabel = inputForm.elements["yLabel"].value;
+
+        xVector = xString.split(xSeperator);
+        xMean = 0;
+        for (a in xVector) {
+            xVector[a] = parseInt(xVector[a], 10);
+            xMean += xVector[a];
+        }
+		xMean /= xVector.length;
+		
+        maxX = Math.max.apply(Math, xVector);
+        minX = Math.min.apply(Math, xVector);
+
+        yVector = yString.split(ySeperator);
+        yMean = 0;
+        for (a in yVector) {
+            yVector[a] = parseInt(yVector[a], 10);
+            yMean += yVector[a];
+        }
+		yMean /= yVector.length;
+		
+		//Tabular computions
+		xiMinusx = new Array();
+		yiMinusy = new Array();
+		xy = 0;
+		xx = 0;
+		for (a in xVector) {
+            xiMinusx[a] = xVector[a] - xMean;
+            yiMinusy[a] = yVector[a] - yMean;
+			xy += (xiMinusx[a]*yiMinusy[a]);
+			xx += (xiMinusx[a]*xiMinusx[a]);
+        }
+		b1 = xy/xx;
+		b0 = yMean - b1*xMean;
+		
+		document.getElementById("equation").innerHTML = "SLR Line: y = " +b0.toFixed(2).toString() + " + " + b1.toFixed(2).toString() +"x" 
+		
+        maxY = Math.max.apply(Math, yVector);
+        minY = Math.min.apply(Math, yVector);
+
+        /*
+		var debugWindow = document.getElementById("debug");
+		debugWindow.innerHTML = xVector;
+		debugWindow.innerHTML += "<br/>" +yVector+"<br/>";
+		*/
+
+        var data = new google.visualization.DataTable();
+        data.addColumn('number', 'X');
+        data.addColumn('number', 'Y');
+
+        for (a in xVector) {
+            data.addRow([xVector[a], yVector[a]]);
+        }
+
+        options = {
+            title: xLabel + ' vs. ' + yLabel + ' comparison',
+            hAxis: {
+                title: xLabel,
+                minValue: minX,
+                maxValue: maxX
+            },
+            vAxis: {
+                title: yLabel,
+                minValue: minY,
+                maxValue: maxY
+            },
+            legend: 'none',
+            trendlines: { 0: {} }    // Draw a trendline for data series 0.
+        };
+
+        drawChart(data, options);
+
+    }
+</script>
+
+</html>
