@@ -26,7 +26,7 @@ Includes Projects from courses taken at NC State University: Machine Learning fo
 -  **[Anomaly Detection in Time Evolving Networks](https://github.com/shahrajat/Data-Science/tree/master/anomaly-detection){:target="_blank"}** - Implemented Signature Similarity method for detecting Anomaly in time evolving graphs.  Because of the way the similarity is calculated, anomalous graphs are identified by two consecutive anomalous time points in the output.<br/>
 Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf){:target="_blank"}
 
--  **[Adwords Placement](https://github.com/shahrajat/Data-Science/tree/master/adwords-placement){:target="_blank"}** - Given that advertisement giants like Google, Yahoo only make revenue only if the viewer clicks the ads, it's important to make the decision of which Ads should be shown (in limited number of ads slots available) depending on the query typed. Implemented Greedy, MSVV, and Balance algorithms in R for a very simplified version of this problem statement. MSSV beats other algorithms in terms of total revenue generated.
+-  **[Adwords Placement](https://github.com/shahrajat/Data-Science/tree/master/adwords-placement){:target="_blank"}** - Given that advertisement giants like Google, Yahoo only make revenue only if the viewer clicks the ads, it's important to make the clever decision of which Ads should be shown (in limited number of ads slots available) depending on the query typed. Implemented Greedy, MSVV, and Balance algorithms in R for a very simplified version of this problem statement. MSSV beats other algorithms in terms of total revenue generated.
 
 ## Web Development
 
