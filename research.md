@@ -15,4 +15,4 @@ Yuan Zhang, Rajat Shah and M. Chi, **Deep Learning + Student Modeling + Clusteri
 
 ---
 
-<iframe src="http://shahrajat.com/assets/Rajat_Shah_Resume.pdf" style="width:750px; height:100%;" frameborder="0"></iframe>
+<iframe src="http://shahrajat.com/assets/Rajat_Shah_Resume.pdf" style="width:750px; height:1200px;" frameborder="0"></iframe>
