@@ -25,6 +25,8 @@ Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanf
 
 - [Ongoing] **[spamtest](https://spamtest.herokuapp.com/){:target="_blank"}** - Building a Django Python Web app for predicting if an email content is spam. Predicts the spamminess score based on a ML model pre-trained on huge dataset.
 
+- [2015] **[Minified Guess the Correlation Game](http://shahrajat.com/assets/apps/guess-the-correlation.html?#){:target="_blank"}** - Built a minified version of the famous Guess the correlation game.
+
 ## Talks
 
 - [2016] **[Recurrent Neural Networks](https://docs.google.com/presentation/d/1-Y3rc-Y1jryat7kkzpZStoprk2dc4fVnpmezkAcrv-c/pub?start=false&loop=false&delayms=10000&slide=id.g11048b17a6_0_51){:target="_blank"}** - Presented a brief overview and important applications of Recurrent Neural Networks in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html){:target="_blank"}.
