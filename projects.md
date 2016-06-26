@@ -30,11 +30,11 @@ Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanf
 
 ## Web Development
 
-I really enjoy building web applications, whether big or small. Throughout my time in undergrad schoo, I lead the development of web portals for several technical events and clubs.
+I really enjoy building web applications, whether big or small. Throughout my time in undergrad schoo, I lead the development of web portals for several technical events and clubs. My recent work experiences at Amazon and Morgan Stanley has further enchanced my skills in it.
 
 - [Ongoing] **[spamtest](https://spamtest.herokuapp.com/){:target="_blank"}** - Building a Django Python Web app for predicting if an email content is spam. Predicts the spamminess score based on a ML model pre-trained on huge dataset.
 
-- 
+- [2013-14] **Events Portal** - Developed VNIT's Annual Management festival (Consortium'12), and lead development of Annual Technical festival (AXIS'13) web portals. Handling thousands of participants' data, optimizing webpages for faster load speed was a challenge.
 
 - [2011-12] **VLive - VNIT's Social Networking Website** - I feel most proud of building it from scratch using JavaScript, PHP and MySQL during the winter break of my sophomore year in undergrad school. 2 dedicated months, 5 team members and a bunch of awesome features like - forum discussion, facebook style chat, video call and notice board. Unfortunately it was hosted on internal college servers and hence inaccessible from outside.
 
