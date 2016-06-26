@@ -29,11 +29,11 @@ I really enjoy building web applications, whether big or small. Throughout my ti
 
 - [2011-12] **VLive - VNIT's Social Networking Website** - I feel most proud of building it from scratch using JavaScript, PHP and MySQL during the winter break of my sophomore year in undergrad school. 2 dedicated months, 5 team members and a bunch of awesome features like - forum discussion, facebook style chat, video call and notice board. Unfortunately it was hosted on internal college servers and hence inaccessible from outside.
 
-> **Mini Apps:**
+    **Mini Apps:**
 
-> > - [2015] **[Minified Guess the Correlation Game](http://shahrajat.com/assets/apps/guess-the-correlation.html?#){:target="_blank"}** - Built a minified version of the famous Guess the correlation game.
+         - [2015] **[Minified Guess the Correlation Game](http://shahrajat.com/assets/apps/guess-the-correlation.html?#){:target="_blank"}** - Built a minified version of the famous Guess the correlation game.
 
-> > - [2015] **[Simple Linear Regression](http://shahrajat.com/assets/apps/simple-linear-regression.html?#){:target="_blank"}** - Computes the Linear Regression line for two variables.
+         - [2015] **[Simple Linear Regression](http://shahrajat.com/assets/apps/simple-linear-regression.html?#){:target="_blank"}** - Computes the Linear Regression line for two variables.
 
 ## Talks
 
