@@ -17,7 +17,7 @@ Includes Projects from courses taken at NC State University: Machine Learning fo
 -  **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Built a Music Recommender System using Collaborative Filtering approach on implicit feedback dataset with Apache Sparks's Machine Learning Library (MLib) in Python.
 
 -  **[Handwriting Recognition, Learning and Generation](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Machine Learning based custom handwriting font generator. Applied character segmentation to handwritten documents, used MNIST dataset to train various Machine Learning models for character recognition, extracted key user specific writing features and studied application of RNNs for sequence generation.
-[Report](shahrajat.github.io/assets/CSC_591_ML_Handwriting.pdf)
+[Report](http://shahrajat.github.io/assets/CSC_591_ML_Handwriting.pdf)
 
 -  **[Anomaly Detection in Time Evolving Networks](https://github.com/shahrajat/Data-Science/tree/master/anomaly-detection){:target="_blank"}** - Implemented Signature Similarity method for detecting Anomaly in time evolving graphs.  Because of the way the similarity is calculated, anomalous graphs are identified by two consecutive anomalous time points in the output.<br/>
 Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf){:target="_blank"}
