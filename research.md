@@ -11,6 +11,7 @@ I am also a __Graduate Research Assistant__ in the Center of Educational Informa
 
 ## Publications
 
-- Yuan Zhang, Rajat Shah and M. Chi, **Deep Learning + Student Modeling + Clustering: a Recipe for Effective Automatic Short Answer Grading**, _The 9th International Conference on Educational Data Mining_ (EDM2016).
+- Yuan Zhang, Rajat Shah and M. Chi, **Deep Learning + Student Modeling + Clustering: a Recipe for Effective Automatic Short Answer Grading**, _The 9th International Conference on Educational Data Mining_ (EDM2016). <br/>
+[PDF](http://www.educationaldatamining.org/EDM2016/proceedings/paper_61.pdf)
 
 ---
