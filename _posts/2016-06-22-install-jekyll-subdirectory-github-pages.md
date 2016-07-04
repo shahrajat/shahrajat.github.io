@@ -1,10 +1,12 @@
 ---
 layout: post
-title: How I installed Jekyll in a Subdirectory for GitHub Pages
+title: How I installed Jekyll in a Subdirectory for blog
 date: '2016-06-22 20:54:40 -0700'
 categories: jekyll
 published: true
 ---
+**Edit** 07/04/2016: I have now installed Jekyll in the root directory itself, but following tutorial stil holds. 
+
 Jekyll is one clever way of having a blog which doesn't require you to have any Database or Backend server. All it does is generate Static HTML pages from Markdown format which you can directly host on the Github Pages. Here I will step-by-step guide on how to host a website and blog all from GitHub pages. 
 
 - Estimated time: 15 Minutes
