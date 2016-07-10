@@ -41,7 +41,7 @@ avatar: "/img/small.jpeg"
 author:
   name: Rajat Shah
   email: "rshah6@ncsu.edu"
-  facebook: rajat.s.shah  # eg. daattali
+#  facebook: rajat.s.shah  # eg. daattali
   github: shahrajat    # eg. daattali
   twitter: _rajatshah   # eg. daattali
   linkedin: in/rajatsshah  # eg. "pub/dean-attali/8/946/143"
