@@ -27,7 +27,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Research: "research"
-  Resume/CV: "http://shahrajat.github.io/assets/Rajat_Shah_Resume.pdf"
+  Resume/CV: "http://shahrajat.github.io/resume.pdf"
 #  nav-search: "search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
