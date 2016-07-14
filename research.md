@@ -5,7 +5,7 @@ subtitle: What else I did in grad school?
 comments: true
 published: true
 ---
-Much of my research interest lies in Machine Learning for Data Mining related methodologies. I have gained experience in this field through research projects on Sentiment Analysis of reviews, Recommender System and Generalized Regression Models analysis.
+Much of my research interest lies in various aspects of Machine Learning, Natural Language Processing and AI. I have gained experience in this field through various [projects](http://shahrajat.com/projects/) and research work done at graduate school.
 
 I am also a __Graduate Research Assistant__ in the Center of Educational Informatics Lab at NCSU under the supervision of Dr. Min Chi. My task includes evaluating and building models for the challenging problem of Automatic Short Answer Grading (ASAG) for Intelligent Tutoring Systems(ITS). 
 
