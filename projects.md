@@ -14,15 +14,15 @@ A collection of key projects in have done either in my free time or during Maste
 
 Includes Projects from courses taken at NC State University: Machine Learning for User Adaptive Systems, Algorithms for Data Guided Business Intelligence, Foundation of Data Science
 
--  **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Built a Music Recommender System using Collaborative Filtering approach on implicit feedback dataset with Apache Sparks's Machine Learning Library (MLib) in Python.
+-  [2016] **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Built a Music Recommender System using Collaborative Filtering approach on implicit feedback dataset with Apache Sparks's Machine Learning Library (MLib) in Python.
 
--  **[Handwriting Recognition, Learning and Generation](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Machine Learning based custom handwriting font generator. Applied character segmentation to handwritten documents, used MNIST dataset to train various Machine Learning models for character recognition, extracted key user specific writing features and studied application of RNNs for sequence generation.
+-  [2016] **[Handwriting Recognition, Learning and Generation](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Machine Learning based custom handwriting font generator. Applied character segmentation to handwritten documents, used MNIST dataset to train various Machine Learning models for character recognition, extracted key user specific writing features and studied application of RNNs for sequence generation.
 [Report](http://shahrajat.github.io/assets/CSC_591_ML_Handwriting.pdf)
 
--  **[Anomaly Detection in Time Evolving Networks](https://github.com/shahrajat/Data-Science/tree/master/anomaly-detection){:target="_blank"}** - Implemented Signature Similarity method for detecting Anomaly in time evolving graphs.  Because of the way the similarity is calculated, anomalous graphs are identified by two consecutive anomalous time points in the output.<br/>
-Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf){:target="_blank"}
+-  [2016] **[Adwords Placement](https://github.com/shahrajat/Data-Science/tree/master/adwords-placement){:target="_blank"}** - Given that advertisement giants like Google, Yahoo only make revenue only if the viewer clicks the ads, it's important to make the clever decision of which Ads should be shown (in limited number of ads slots available) depending on the query typed. Implemented Greedy, MSVV, and Balance algorithms in R for a very simplified version of this problem statement. MSSV beats other algorithms in terms of total revenue generated.
 
--  **[Adwords Placement](https://github.com/shahrajat/Data-Science/tree/master/adwords-placement){:target="_blank"}** - Given that advertisement giants like Google, Yahoo only make revenue only if the viewer clicks the ads, it's important to make the clever decision of which Ads should be shown (in limited number of ads slots available) depending on the query typed. Implemented Greedy, MSVV, and Balance algorithms in R for a very simplified version of this problem statement. MSSV beats other algorithms in terms of total revenue generated.
+-  [2015] **[Anomaly Detection in Time Evolving Networks](https://github.com/shahrajat/Data-Science/tree/master/anomaly-detection){:target="_blank"}** - Implemented Signature Similarity method for detecting Anomaly in time evolving graphs.  Because of the way the similarity is calculated, anomalous graphs are identified by two consecutive anomalous time points in the output.<br/>
+Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf){:target="_blank"}
 
 ## Web Development
 
@@ -37,7 +37,7 @@ I really enjoy building web applications, whether big or small. Throughout my ti
     **Mini Apps:**
     
      - [2015] **[Minified Guess the Correlation Game](http://shahrajat.com/assets/apps/guess-the-correlation.html?#){:target="_blank"}** - Built a minified version of the famous Guess the correlation game.
-     - [2014] **[Simple Linear Regression](http://shahrajat.com/assets/apps/simple-linear-regression.html?#){:target="_blank"}** - Computes the Linear Regression line for two variables.
+     - [2015] **[Simple Linear Regression](http://shahrajat.com/assets/apps/simple-linear-regression.html?#){:target="_blank"}** - Computes the Linear Regression line for two variables.
      - [2013] **[A* JavaScript](http://shahrajat.com/assets/apps/astar.html){:target="_blank"}** - A* pathfinding algorithm JavaScript implementation.
 
 ## Talks
