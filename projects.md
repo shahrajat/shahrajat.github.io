@@ -42,7 +42,7 @@ I really enjoy building web applications, whether big or small. Throughout my ti
 
 ## Talks
 
-- [2016] **[Recurrent Neural Networks](https://docs.google.com/presentation/d/1-Y3rc-Y1jryat7kkzpZStoprk2dc4fVnpmezkAcrv-c/pub?start=false&loop=false&delayms=10000&slide=id.g11048b17a6_0_51){:target="_blank"}** - Presented a brief overview and important applications of Recurrent Neural Networks in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html){:target="_blank"}.
+- [2016] **[Recurrent Neural Networks](https://docs.google.com/presentation/d/1-Y3rc-Y1jryat7kkzpZStoprk2dc4fVnpmezkAcrv-c/pub?start=false&loop=false&delayms=10000&slide=id.g742e3e7cd_1_16){:target="_blank"}** - Presented a brief overview and important applications of Recurrent Neural Networks in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html){:target="_blank"}.
 
 - [2016] **[Gradient Descent and/or Stochastic Gradient Descent for Logistic Regression](https://docs.google.com/presentation/d/1ViSaw_DzYXfKMjt6JBoN1RbgIRVCkNj2q5XAG3wjPFU/pub?start=false&loop=false&delayms=10000){:target="_blank"}** - Gradient Descent and Stochastic Gradient Descent are techniques used in optimization of objective functions in various Machine Learning models. Presented it in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html){:target="_blank"}.
 
