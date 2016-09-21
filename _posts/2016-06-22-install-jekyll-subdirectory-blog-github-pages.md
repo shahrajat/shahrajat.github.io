@@ -19,7 +19,10 @@ Jekyll is one clever way of having a blog which doesn't require you to have any 
 2. Add `index.html` in it in the root directory it self.
 3. Your website should now be accesible from `http://<username>.github.io`.
 
+Or, if you prefer to have a project website, simply push the static HTML pages to a new gh-pages branch and it will be accessible from `<username>.github.io/project`!
+
 ## Hosting Jekyll Blog in subdirectory
+
 I have my Homepage of the website [shahrajat.github.io](http://shahrajat.github.io) hosted with some static HTML pages I wrote. However, I don't want to have my blog hosted on the Homepage itself, instead I have it hosted at `shahrajat.github.io/blog`. To achieve this, follow these steps: 
 
 1. **Install Ruby**: Since Jekyll runs with Ruby, you will need to have Ruby. If you are Mac and have home-brew installed, simply run `brew install ruby`.
