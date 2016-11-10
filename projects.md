@@ -14,6 +14,9 @@ A collection of key projects in have done either in my free time or during Maste
 
 Includes Projects from courses taken at NC State University: Machine Learning for User Adaptive Systems, Algorithms for Data Guided Business Intelligence, Foundation of Data Science
 
+-  [Ongoing] **[Activity Based Music Recommender and Player](https://github.com/shahrajat/MusicRec){:target="_blank"}** - MusicRec is a prototype of a context-aware Android application which adapts at run-time bsaed on user's activity. Song recommendations is based on whether user is driving, working-out, relaxing, etc.
+
+
 -  [2016] **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Built a Music Recommender System using Collaborative Filtering approach on implicit feedback dataset with Apache Sparks's Machine Learning Library (MLib) in Python.
 
 -  [2016] **[Handwriting Recognition, Learning and Generation](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Machine Learning based custom handwriting font generator. Applied character segmentation to handwritten documents, used MNIST dataset to train various Machine Learning models for character recognition, extracted key user specific writing features and studied application of RNNs for sequence generation.
