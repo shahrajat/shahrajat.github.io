@@ -14,9 +14,6 @@ A collection of key projects in have done either in my free time or during Maste
 
 Includes Projects from courses taken at NC State University: Machine Learning for User Adaptive Systems, Algorithms for Data Guided Business Intelligence, Foundation of Data Science
 
--  [Ongoing] **[Activity Based Music Recommender and Player](https://github.com/shahrajat/MusicRec){:target="_blank"}** - MusicRec is a prototype of a context-aware Android application which adapts at run-time bsaed on user's activity. Song recommendations is based on whether user is driving, working-out, relaxing, etc.
-
-
 -  [2016] **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Built a Music Recommender System using Collaborative Filtering approach on implicit feedback dataset with Apache Sparks's Machine Learning Library (MLib) in Python.
 
 -  [2016] **[Handwriting Recognition, Learning and Generation](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Machine Learning based custom handwriting font generator. Applied character segmentation to handwritten documents, used MNIST dataset to train various Machine Learning models for character recognition, extracted key user specific writing features and studied application of RNNs for sequence generation.
@@ -27,9 +24,11 @@ Includes Projects from courses taken at NC State University: Machine Learning fo
 -  [2015] **[Anomaly Detection in Time Evolving Networks](https://github.com/shahrajat/Data-Science/tree/master/anomaly-detection){:target="_blank"}** - Implemented Signature Similarity method for detecting Anomaly in time evolving graphs.  Because of the way the similarity is calculated, anomalous graphs are identified by two consecutive anomalous time points in the output.<br/>
 Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf){:target="_blank"}
 
-## Web Development
+## Web/Mobile Development
 
-I really enjoy building web applications, whether big or small. Throughout my time in undergrad schoo, I lead the development of web portals for several technical events and clubs. My recent work experiences at Amazon and Morgan Stanley has further enchanced my skills in it.
+I really enjoy building web/mobile applications, whether big or small. Throughout my time in undergrad schoo, I lead the development of web portals for several technical events and clubs. My recent work experiences at Amazon and Morgan Stanley has further enchanced my skills in it.
+
+-  [Ongoing] **[Activity Based Music Recommender and Player](https://github.com/shahrajat/MusicRec){:target="_blank"}** - MusicRec is a prototype of a context-aware Android application which adapts at run-time bsaed on user's activity. Song recommendations is based on whether user is driving, working-out, relaxing, etc.
 
 - [Ongoing] **[spamtest](https://spamtest.herokuapp.com/){:target="_blank"}** - Building a Django Python Web app for predicting if an email content is spam. Predicts the spamminess score based on a ML model pre-trained on huge dataset.
 
