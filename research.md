@@ -7,7 +7,9 @@ published: true
 ---
 Much of my research interest lies in various aspects of Machine Learning, Natural Language Processing and AI. I have gained experience in these areas through various [projects](http://shahrajat.com/projects/) and research work done at graduate school.
 
-I am also a __Graduate Research Assistant__ in the [Center for Educational Informatics](https://www.cei.ncsu.edu/) Lab at NCSU under the supervision of [Dr. Min Chi](https://www.csc.ncsu.edu/people/mchi). My task includes evaluating and building models for the challenging problem of Automatic Short Answer Grading (ASAG) for Intelligent Tutoring Systems(ITS). 
+[Fall'16] I am working as __Graduate Research Assistant__ with [Laboratory for Analytic Sciences](https://ncsu-las.org/) on a novel approach for instrumentation software based on desktop screenshot analysis. Implementing algorithms for image analysis, OCR, and text analysis are my key tasks here.
+
+[Fall'15 & Spring'16] I am  a __Graduate Research Assistant__in the [Center for Educational Informatics](https://www.cei.ncsu.edu/) Lab at NCSU under the supervision of [Dr. Min Chi](https://www.csc.ncsu.edu/people/mchi). My tasks includes evaluating and building models for the challenging problem of Automatic Short Answer Grading (ASAG) for Intelligent Tutoring Systems(ITS). 
 
 ## Publications
 
