@@ -9,7 +9,7 @@ Much of my research interest lies in various aspects of Machine Learning, Natura
 
 [Fall'16] I am working as __Graduate Research Assistant__ with [Laboratory for Analytic Sciences](https://ncsu-las.org/) on a novel approach for instrumentation software based on desktop screenshot analysis. Implementing algorithms for image analysis, OCR, and text analysis are my key tasks here.
 
-[Fall'15 & Spring'16] I am  a __Graduate Research Assistant__in the [Center for Educational Informatics](https://www.cei.ncsu.edu/) Lab at NCSU under the supervision of [Dr. Min Chi](https://www.csc.ncsu.edu/people/mchi). My tasks includes evaluating and building models for the challenging problem of Automatic Short Answer Grading (ASAG) for Intelligent Tutoring Systems(ITS). 
+[Fall'15 & Spring'16] I am  a **Graduate Research Assistant** in the [Center for Educational Informatics](https://www.cei.ncsu.edu/) Lab at NCSU under the supervision of [Dr. Min Chi](https://www.csc.ncsu.edu/people/mchi). My tasks includes evaluating and building models for the challenging problem of Automatic Short Answer Grading (ASAG) for Intelligent Tutoring Systems(ITS). 
 
 ## Publications
 
