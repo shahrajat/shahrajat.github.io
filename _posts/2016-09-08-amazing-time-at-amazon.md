@@ -10,6 +10,8 @@ To begin with, while I was in my 2nd semester of Masters studies, I was actively
 
 Before I joined, I received an email from my to-be Manager and Mentor that I will be working with Imaging Research team. After stalking their online profiles, it literally took an hour to digest the fact that both them were PhDs and I will be a part of a Research focused team. What did I really do to deserve such an amazing team I could have only dreamt of? Never was I so proud in telling my close friends about the team I was assigned. 
 
+Note to myself: Find some time to finish this post...
+
 ### Few photos I managed to click well with Moto G2
 
 ![Rajat Shah Seattle Big wheel]({{site.baseurl}}https://lh3.googleusercontent.com/oNt7kPTl9G-Pkfd2Mq_QSwpbU5_lLXu6u-RJRAojGSCwlxU6A2tYCndOGUkGu0znrOHA-Pf3ZdTaA1ZH4F8of5d3FXhzhA6BJ581vzsgbE-ai5W4GvMoCLrr6TwpaNr1Zk9xeDHOLoBnl0aAvnVw1dxiM0pXYmIA0KiF65IAuwAN8dAnXIR8An1zGjMa5w6nVJbW5tqW2Z4fT9exU6PIRhC6UIeITzv4yPPqjrSEa8NEG04gKbZcgR4eA7-1hcSBMldC71tpzmuykuT8Y7CeYyzdPeLFt9LPL3C0Q8_u9z56CH4iKOV2GViEheeYDCEidig2gBgcDXUgY-_e7KTZ0h_LnIIIqY91UZzjVPgQpBuxPw8tkhzzFzu3-2Q8nAxJBwyk-LoiYotZDDWyv78P4P7v5mBMb1UVgSspxRqmovAV19Z0cxyqEPksuKatQjsj1BD8OIHu3LaEYU4pcUaYKOpvvvYh5ReXwU-Bs7aGzaHmZQYnGJKyr3xzGcI-mClAjH0LalzltHolzIsxMvcDbv6LyH2kuOvoEkuvel2kZziJbttmYLLMz1ok763oKVMeRWZUnZIgg4lWq6dv6yvZrF7uiRN5A36LU_rrMArOQF1j5wao=w2330-h1310-no)
