@@ -43,7 +43,7 @@ production_url : http://<username>.github.io.com/blog
 BASE_PATH : http://<username>.com/blog
 {% endhighlight %}
 
-That's it! Your new blog should now accessible from `http://<username>.github.io.com/blog`. :smile:
+That's it! Your new blog should now accessible from `http://<username>.github.io/blog`. :smile:
 
 ## What Next?
 Editing Markdown using GitHub is painful. A better approach is to use an online Markdown editors which are close to WYSIWYG editors. My favorite currently is [http://prose.io/](http://prose.io/) which allows linking github account to it so that you can directly browse your repositories/source files, edit them and see a preview before committing.
