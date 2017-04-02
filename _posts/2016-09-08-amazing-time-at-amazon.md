@@ -4,13 +4,13 @@ published: true
 title: The Amaz(on|ing) summer in Seattle
 ---
 
-Last summer was the longest time I have spent in a metro city in US and it was my first internship at one of the Big 4. This is a brief reminiscence of the amazing time I had in those 3 months.
+Last summer was the longest time I had spent in a metro city in USA, and it was my first internship at one of the Big 4. This is a brief reminiscence of those amazing 3 months.
 
 To begin with, while I was in my 2nd semester of Masters studies, I was actively looking for Software Engineering opportunities for the coming summer. On a busy morning, one of the recruiters called me and asked me to schedule an on-campus interview for tomorrow. Well, that was kindof a shock as usually I get notified at least a week before the interview day. I convinced him to schedule it for day after tomorrow and spend the next day searching questions from Glassdoor and Cracking the Coding Interviews. Though the questions I ended up getting were a bit difficult than I expected, overall the interview process was fun. I appreciated how the interviewers were continuously working on the solutions along with me and suggested hints wherever necessary. The email containing **offer** letter after a week was a total bliss :D
 
-Before I joined, I received an email from my to-be Manager and Mentor that I will be working with Imaging Research team. After stalking their online profiles, it literally took an hour to digest the fact that both them were PhDs and I will be a part of a Research focused team. What did I really do to deserve such an amazing team I could have only dreamt of? Never was I so proud in telling my close friends about the team I was assigned. 
+Before I joined, I received an email from my to-be Manager and Mentor that I will be working with Imaging Research team. After stalking their online profiles, it literally took an hour to digest the fact they were both PhDs and I will be a part of a Research focused team. Never was I so proud in telling my close friends about the team I was assigned, and undeniably, the wait to joining day got harder.
 
-Note to myself: Find some time to finish this post...
+And the long awaited day to arrive Seattle finally came. The trip from airport to downtown was mesmerizing enough to make anyone fall in love with this town.
 
 ### Few photos I managed to click well with Moto G2
 
