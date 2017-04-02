@@ -4,7 +4,7 @@ title: Profound multi-dimensional analysis of tetrad years in academia
 published: true
 ---
 
-"Broaden your horizon", someone said while I was struggling to come up with a title for this blog. How could I even contemplate a title when I haven't even pondered upon what I am going to write in this blogpost. Well, in some sorts this post is coming out as a forceful piece of writing since I haven't written any in months. (And GRE prep helped in coming up with this devilishly convoluted title)
+"Broaden your horizon", someone said while I was struggling to come up with a title for this blog. How could I even contemplate a title when I haven't even pondered upon what I am going to write in this blogpost. Well, in some sorts this post is coming out as a forceful piece of writing since I haven't written any in months. (And GRE preparations helped in coming up with this devilishly convoluted title)
 
 Lot many things have changed in my life in the past 1 year. Exact 1 yr from this day, 4 years of college life came to a harsh end. And like many other momentous changes in my life, I failed to realize and live that juncture. Not a day after 1st year passed when I wondered - "Life is hell here. Learning theory and studying some useless courses is merely a waste of time. Real worlds demands much more than just theory." Who can really enjoy time with such mentality? _You wake up everyday just to grumble about the tons of assignments due, when you have interest just in few_. This is where your mind is totally immersed and you fail to live the rapidly passing moment. 
 
