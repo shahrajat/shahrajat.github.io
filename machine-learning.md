@@ -1,5 +1,6 @@
 ---
 layout: page
+css: "/css/index.css"
 title: "Hi, I'm Rajat"
 subtitle: Software Engineer / Reader / Explorer
 meta-title: "Some Machine Learning title"
