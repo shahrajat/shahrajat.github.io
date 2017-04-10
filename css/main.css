@@ -478,9 +478,21 @@ footer .theme-by {
   border-bottom-left-radius: 5px;
 }
 
+/* BLOG POSTS */
+
 .blog-comments {
   margin-top: 30px;
 }
+.blog-post img {
+  max-width: 100%;
+}
+.blog-tags {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #999;
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+
 
 @media only screen and (min-width: 768px) {
   .blog-comments {
