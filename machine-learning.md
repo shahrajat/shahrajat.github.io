@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Hi, I'm Dean"
+title: "Hi, I'm Rajat"
 subtitle: R-Shiny Expert / Software Tool Builder / Extreme Traveller
 css: "/css/index.css"
-meta-title: "Dean Attali - R-Shiny consultant"
-meta-description: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
+meta-title: "Some Machine Learning title"
+meta-description: "Some Machine Learning description"
 bigimg:
   - "/img/big-imgs/costa-rica-house.jpeg" : "Montezuma, Costa Rica (2011)"
   - "/img/big-imgs/grouse-grind.jpeg" : "Vancouver, Canada (2014)"
