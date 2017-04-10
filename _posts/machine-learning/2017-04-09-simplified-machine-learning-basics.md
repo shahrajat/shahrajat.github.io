@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Simplified ML - Getting Started with Machine Learning
+tags: [ml]
 published: true
 ---
 
