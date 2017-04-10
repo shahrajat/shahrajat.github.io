@@ -2,7 +2,6 @@
 layout: page
 title: "Hi, I'm Rajat"
 subtitle: R-Shiny Expert / Software Tool Builder / Extreme Traveller
-css: "/css/index.css"
 meta-title: "Some Machine Learning title"
 meta-description: "Some Machine Learning description"
 bigimg:
