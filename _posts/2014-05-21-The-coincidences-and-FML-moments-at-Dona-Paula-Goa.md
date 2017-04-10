@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'The coincidences and FML moments at Dona Paula, Goa'
-published: true
 subtitle: Ups and downs during the VNIT CSE winter trip
+tags: [life]
+published: true
 ---
 The most awaited CSE batch trip to Goa was coming to a sweet end. The last spot to visit in our itinerary was the sunset point Dona Paula, renowned for shooting of few fighting scenes in a hit Bollywood movie Singham. The excursion began in morning itself with around 20 of us headed to Panaji city on bikes, all double seated. Being a long ride, half of us parted from the other half and we paved our own way. With such a pleasant view of Cruises along the way, we reached Dona Paula at around 5PM.
 
