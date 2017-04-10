@@ -2,14 +2,13 @@
 layout: post
 title: Not just another day...
 subtitle: Getting into Goldman Sachs - a turning point in life
+tags: [life]
 published: true
 ---
 
-
-
 This is a reminiscence of my tremendous coup which literally changed all of my opinions and thoughts about days of the upcoming summer’13 and the days succeeding college life. The description may sound circumlocutory since I am not used to with writing such lengthy tales. Also for the last two years, I am finding it very difficult to unjumble and untangle my feelings to form understandable and attractive sentences with intelligent use of words.
 
-This is how it begun…
+This is how it begun...
 
 It was a usual day for me in my 5th semester as a CSE undergrad- getting up early and trying my best to attend maximum lectures. Since it was nearly the end of the semester, I and my batch mates were quite worried about our chances of getting a summer internship. The worry was obvious as not a single company had visited yet, considering the fact that last year Microsoft, IBM and Qualcomm had already visited by this time and selected almost 6-7 CSE students in all. Also my worries got elevated when I came to know from my contemporaries studying in other NITs had already got a chance to try their best in getting an internship at software giants like Microsoft, IBM and TI (though, almost 10-15 guys succeeded in getting one). The aftermath being, we had to spend more time in our computer lab (since there was no internet connection in our new hostel yet), vigorously searching for different summer internship programs in reputed companies like Adobe, Zynga, etc.
 
