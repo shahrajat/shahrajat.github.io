@@ -9,12 +9,12 @@ meta-description: "Some Machine Learning description"
 
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
-  <a href="/life" class="list-filter">Life</a>
-  <span class="list-filter filter-selected">Machine Learning</span>
+  <span class="list-filter filter-selected">Life</span>
+  <a href="/machine-learning" class="list-filter">Machine Learning</a>
 </div>
 
 <div class="posts-list">
-  {% for post in site.tags.ml %}
+  {% for post in site.tags.life %}
   <article>
     <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
 	    <h2 class="post-title">{{ post.title }}</h2>
