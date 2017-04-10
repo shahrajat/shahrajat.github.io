@@ -28,9 +28,9 @@ Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanf
 
 I really enjoy building web/mobile applications, whether big or small. Throughout my time in undergrad schoo, I lead the development of web portals for several technical events and clubs. My recent work experiences at Amazon and Morgan Stanley has further enchanced my skills in it.
 
--  [Ongoing] **[Activity Based Music Recommender and Player](https://github.com/shahrajat/MusicRec){:target="_blank"}** - MusicRec is a prototype of a context-aware Android application which adapts at run-time bsaed on user's activity. Song recommendations is based on whether user is driving, working-out, relaxing, etc.
-
 - [Ongoing] **[spamtest](https://spamtest.herokuapp.com/){:target="_blank"}** - Building a Django Python Web app for predicting if an email content is spam. Predicts the spamminess score based on a ML model pre-trained on huge dataset.
+
+-  [2016] **[Context-aware Music Player (Android)](https://github.com/shahrajat/MusicRec){:target="_blank"}** - MusicRec is a prototype of a context-aware Android application which adapts at run-time bsaed on user's activity. Song recommendations is based on whether user is driving, working-out, relaxing, etc.
 
 - [2013-14] **Events Portal** - Developed VNIT's Annual Management festival (Consortium'12), and lead development of Annual Technical festival (AXIS'13) web portals. Handling thousands of participants' data, optimizing webpages for faster load was bit of a challenge.
 
