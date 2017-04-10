@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: The Amaz(on|ing) summer in Seattle
+tags: [life]
 ---
 
 Last summer was the longest time I had spent in a metro city in USA, and it was my first internship at one of the Big 4. This is a brief reminiscence of those amazing 3 months.
