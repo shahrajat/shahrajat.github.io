@@ -34,7 +34,7 @@ blockquote {
 }
 hr.small {
   max-width: 100px;
-  margin: 15px auto;
+  margin: 11px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
@@ -337,7 +337,7 @@ footer .theme-by {
 /* --- Post and page headers --- */
 
 .intro-header {
-  margin: 80px 0 20px;
+  margin: 80px 0 0px;
   position: relative;
 }
 .intro-header.big-img {
