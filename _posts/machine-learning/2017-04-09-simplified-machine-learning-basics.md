@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simplified ML - Key concepts of Machine Learning
+title: Simplified ML - Getting Started with Machine Learning
 published: true
 ---
 
