@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: Simplified ML - Key concepts of Machine Learning
 published: false
 ---
 
