@@ -5,6 +5,12 @@ title: Hi, I'm Rajat
 subtitle: A typical Software Engineer
 ---
 
+<div class="list-filters">
+  <a href="/" class="list-filter filter-selected">All posts</a>
+  <a href="/life" class="list-filter">Life</a>
+  <a href="/machine-learning" class="list-filter">Machine Learning</a>
+</div>
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
