@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hi, I'm Rajat"
-subtitle: R-Shiny Expert / Software Tool Builder / Extreme Traveller
+subtitle: Software Engineer / Reader / Explorer
 meta-title: "Some Machine Learning title"
 meta-description: "Some Machine Learning description"
 ---
