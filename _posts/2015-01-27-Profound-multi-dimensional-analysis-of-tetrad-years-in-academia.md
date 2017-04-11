@@ -2,6 +2,8 @@
 layout: post
 title: Profound multi-dimensional analysis of tetrad years in academia
 published: true
+tags:
+  - life
 ---
 
 "Broaden your horizon", someone said while I was struggling to come up with a title for this blog. How could I even contemplate a title when I haven't even pondered upon what I am going to write in this blogpost. Well, in some sorts this post is coming out as a forceful piece of writing since I haven't written any in months. (And GRE preparations helped in coming up with this devilishly convoluted title)
