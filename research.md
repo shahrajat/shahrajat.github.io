@@ -11,9 +11,9 @@ Much of my research interest lies in various aspects of Machine Learning, Natura
 
 [Fall'15 & Spring'16] I am  a **Graduate Research Assistant** in the [Center for Educational Informatics](https://www.cei.ncsu.edu/) Lab at NCSU under the supervision of [Dr. Min Chi](https://www.csc.ncsu.edu/people/mchi). My tasks includes evaluating and building models for the challenging problem of Automatic Short Answer Grading (ASAG) for Intelligent Tutoring Systems(ITS). 
 
-## Publications
+## Publications / Posters
 
 - Yuan Zhang, Rajat Shah and M. Chi, **Deep Learning + Student Modeling + Clustering: a Recipe for Effective Automatic Short Answer Grading**, _The 9th International Conference on Educational Data Mining_ (EDM2016). <br/>
 [PDF](http://www.educationaldatamining.org/EDM2016/proceedings/paper_61.pdf){:target="_blank"}
 
----
+- Paul Jones, Dakota Medd, Sreekanth Ramakrishnan, Rajat Shah, Joann Keyton, Nagiza F. Samatova, ** Towards Automatic Linkage of Analyst’s Claims with Associated Evidence from Screenshots**, IEEE BigDataService 2017. [Poster](https://ncsu-las.org/wp-content/uploads/2017/01/do6-symposium-poster-towards-automatic-linkage-of-analysts-claims-with-associated-evidence-from-screenshots-12-05-16.pdf)
