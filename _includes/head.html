@@ -10,7 +10,12 @@
   {% if page.subtitle %}
   <meta name="description" content="{{ page.subtitle }}">
   {% endif %}
-  <meta name="keywords" content="Rajat Shah, Rajat Shah VNIT, Rajat Shah NCSU, Shah Rajat, rajatshah, shahrajat, Rajat S Shah, Rajat Shah Homepage, Rajat Shah BIO, Rajat Shah Profile">
+  
+  {% if not page.subtitle %}
+  <meta name="description" content="Rajat Shah's blog on his life experiences, softwares and Machine Learning.">
+  {% endif %}
+  
+  <meta name="keywords" content="Rajat Shah, Rajat Shah VNIT, Rajat Shah NCSU, Rajat Shah Amazon, Shah Rajat, rajatshah, shahrajat, Rajat S Shah, Rajat Shah Homepage, Rajat Shah BIO, Rajat Shah Profile, Rajat Shah official website, Rajat Shah resume, Rajat Shah blog">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
   {% if layout.common-ext-css %}
