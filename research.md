@@ -17,6 +17,5 @@ Much of my research interest lies in various aspects of Machine Learning, Natura
 [PDF](http://www.educationaldatamining.org/EDM2016/proceedings/paper_61.pdf){:target="_blank"}
 
 - Paul Jones, Dakota Medd, Sreekanth Ramakrishnan, Rajat Shah, Joann Keyton, Nagiza F. Samatova, **Towards Automatic Linkage of Analyst’s Claims with Associated Evidence from Screenshots**, IEEE BigDataService 2017. <br/>
-[IEEE](http://ieeexplore.ieee.org/document/7944916/)
-
-[Poster](https://ncsu-las.org/wp-content/uploads/2017/01/do6-symposium-poster-towards-automatic-linkage-of-analysts-claims-with-associated-evidence-from-screenshots-12-05-16.pdf)
+[IEEE](http://ieeexplore.ieee.org/document/7944916/){:target="_blank"}
+[Poster](https://ncsu-las.org/wp-content/uploads/2017/01/do6-symposium-poster-towards-automatic-linkage-of-analysts-claims-with-associated-evidence-from-screenshots-12-05-16.pdf){:target="_blank"}
