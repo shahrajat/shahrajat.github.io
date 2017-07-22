@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I installed Jekyll in a Subdirectory for blog
+title: How I installed Jekyll in a Subdirectory for blog on GitHub
 date: '2016-06-22 20:54:40 -0700'
 categories: jekyll
 published: true
