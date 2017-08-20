@@ -1,8 +1,16 @@
 ---
 layout: post
 published: false
-title: All about Logistic Regression
+title: A brief story of Logistic Regression
 ---
-## A New Post
+## Binary Classification
+
+## Applications
+## Prediction function
+## Loss/Error function
+## Cost function
+## Gradient Descent
+## Stochastic gradient descent
 
 
+## Multi-class Classification
