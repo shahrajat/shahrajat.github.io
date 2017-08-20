@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: A quick overview of Logistic Regression
 tags:
   - ml
