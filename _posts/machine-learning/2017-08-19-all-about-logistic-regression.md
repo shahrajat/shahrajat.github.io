@@ -2,6 +2,8 @@
 layout: post
 published: true
 title: A brief story of Logistic Regression
+tags:
+  - ml
 ---
 ## Binary Classification
 
