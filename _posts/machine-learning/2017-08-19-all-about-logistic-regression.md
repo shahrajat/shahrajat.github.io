@@ -6,8 +6,10 @@ tags:
   - ml
 ---
 ## Binary Classification
+Predict a binary outcome.
 
 ### Applications
+Will it rain today? Does the input image have cats? 
 	
 ### Prediction function
 ### Loss/Error function
@@ -16,4 +18,3 @@ tags:
 ### Stochastic gradient descent
 ### Python Implementation
 
-## Multi-class Classification
