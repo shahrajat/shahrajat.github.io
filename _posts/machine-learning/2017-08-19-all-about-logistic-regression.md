@@ -7,12 +7,12 @@ tags:
 ---
 ## Binary Classification
 
-## Applications
-## Prediction function
-## Loss/Error function
-## Cost function
-## Gradient Descent
-## Stochastic gradient descent
+### Applications
+### Prediction function
+### Loss/Error function
+### Cost function
+### Gradient Descent
+### Stochastic gradient descent
 
 
 ## Multi-class Classification
