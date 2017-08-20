@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: A brief story of Logistic Regression
 ---
 ## Binary Classification
