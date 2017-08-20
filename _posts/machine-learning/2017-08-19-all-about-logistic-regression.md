@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: A brief story of Logistic Regression
+title: A quick overview of Logistic Regression
 tags:
   - ml
 ---
