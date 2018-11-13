@@ -13,12 +13,23 @@
 </body>
 
 <script type="text/javascript">
+
 $(window).blur(function(){
-  $("#state").text("FOCUS LOST")
+
+    $('#state').animate({'opacity': 0}, 1000, function () {
+    	$(this).text("FOCUS OUT");
+	}).animate({'opacity': 1}, 1000);
+
 });
+
 $(window).focus(function(){
-  $("#state").text("IN FOCUS")
+  $('#state').animate({'opacity': 0}, 1000, function () {
+    	$(this).text("IN FOCUS");
+	}).animate({'opacity': 1}, 1000);
 });
+
+
+
 </script>
 
 </html>
