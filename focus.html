@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Detect focus</title>
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+<body>
+
+	<div style="font-size: 50px; color: red;" id="state">DETECTING</div>
+
+</body>
+
+<script type="text/javascript">
+$(window).blur(function(){
+  $("#state").text("FOCUS LOST")
+});
+$(window).focus(function(){
+  $("#state").text("IN FOCUS")
+});
+</script>
+
+</html>
