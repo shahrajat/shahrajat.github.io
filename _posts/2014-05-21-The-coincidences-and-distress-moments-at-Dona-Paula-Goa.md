@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The coincidences and FML moments at Dona Paula, Goa'
+title: 'The coincidences and distressing moments at Dona Paula, Goa'
 subtitle: Ups and downs during the VNIT CSE winter trip
 tags: [life]
 published: true
