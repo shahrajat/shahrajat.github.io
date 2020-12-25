@@ -7,7 +7,8 @@ tags:
 published: true
 ---
 
-Back in my sophomore year in undergrad, I got obsessed with doing Software projects unrelated to my coursework. It all started when I was selected to build the website for my college's business and management festival's website. Here is the [Wayback machine's snapshot](https://web.archive.org/web/20120315191008/http://www.consortiumvnit.com/index.php) of what is looked like.
+Back in my sophomore year in undergrad, I got obsessed with doing Software projects unrelated to my coursework. It all started when I was selected to build the website for my college's business and management festival called Consortium's website. Here is the [Wayback machine's snapshot](https://web.archive.org/web/20120315191008/http://www.consortiumvnit.com/index.php) of what is looked like. C and Data Structure coursework in my freshman years had completely put me off and got me disinterested in learning programming. Learning to build websites with JS and PHP was my excuse 
+
 That helped to get my first internship (paid!) at IIT Bombay.  
 
 Finally in Oct 2020, I was awarded the coveted "Just Do It" award by Jeff Bezos, Founder and CEO of Amazon in the company-wide All Hands meeting. Every year this award recognizes select few employees who exemplify two of our core values: innovation and bias for action by creating an impact on their own outside of their day job.
