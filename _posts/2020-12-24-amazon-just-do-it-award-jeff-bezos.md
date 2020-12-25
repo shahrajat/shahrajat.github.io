@@ -1,8 +1,11 @@
 ---
 layout: post
-title: 'Winning the Just Do It award at Amazon'
-subtitle: What did it take?
+title: 'Winning the "Just Do It" award by Jeff Bezos at Amazon'
+subtitle: Intrapreneurship efforts paid off well
 tags: [life]
 published: true
 ---
-## Winning the Just Do It award from Jeff Bezos
+
+Back in my sophomore year in undergrad, I got obsessed with doing Software projects unrelated to my coursework. That helped to get my first internship (paid!) at IIT Bombay. 
+
+
