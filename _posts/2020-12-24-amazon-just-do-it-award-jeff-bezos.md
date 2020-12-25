@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 'Winning the "Just Do It" award by Jeff Bezos at Amazon'
+title: Winning the "Just Do It" award by Jeff Bezos at Amazon
 subtitle: Intrapreneurship efforts paid off well
-tags: [life]
+tags:
+  - life
 published: true
 ---
 
-Back in my sophomore year in undergrad, I got obsessed with doing Software projects unrelated to my coursework. That helped to get my first internship (paid!) at IIT Bombay. 
+Back in my sophomore year in undergrad, I got obsessed with doing Software projects unrelated to my coursework. It all started when I was selected to build the website for my college's business and management festival's website. Here is the [Wayback machine's snapshot](https://web.archive.org/web/20120315191008/http://www.consortiumvnit.com/index.php) of what is looked like.
+That helped to get my first internship (paid!) at IIT Bombay.  
 
 Finally in Oct 2020, I was awarded the coveted "Just Do It" award by Jeff Bezos, Founder and CEO of Amazon in the company-wide All Hands meeting. Every year this award recognizes select few employees who exemplify two of our core values: innovation and bias for action by creating an impact on their own outside of their day job.
 
@@ -14,7 +16,6 @@ My intrapreneurship effort over the last 3 years in creating the platform "Amazo
 
 Joining a huge corporation like Amazon as a fresh grad could be overwhelming at times but I followed by personal mantra of "don't wait, just innovate" and identified a key area where I can make an impact. Amazon's culture provided me with the wings and the resources to shape this idea into the product it is today. Based on my personal experience, I encourage new grads to keep innovating and with perseverance I'm sure it will be a rewarding journey.
 
-#intrapreneurship #leadership #innovation #amazon
 
 
 ![Rajat Shah receiving the Just Do It award]({{site.baseurl}}https://raw.githubusercontent.com/shahrajat/shahrajat.github.io/master/assets/jeff-bezos-rajat-shah.jpeg)
