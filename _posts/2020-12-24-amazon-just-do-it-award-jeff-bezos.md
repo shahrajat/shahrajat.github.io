@@ -9,3 +9,4 @@ published: true
 Back in my sophomore year in undergrad, I got obsessed with doing Software projects unrelated to my coursework. That helped to get my first internship (paid!) at IIT Bombay. 
 
 
+![Rajat Shah Seattle near Big wheel]({{site.baseurl}}https://raw.githubusercontent.com/shahrajat/shahrajat.github.io/master/assets/jeff-bezos-rajat-shah.jpeg)
