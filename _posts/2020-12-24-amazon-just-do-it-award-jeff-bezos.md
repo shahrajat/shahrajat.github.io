@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winning the "Just Do It" award by Jeff Bezos at Amazon
+title: Receiving the coveted "Just Do It" award by Jeff Bezos at Amazon
 subtitle: Intrapreneurship efforts paid off well
 tags:
   - life
@@ -33,7 +33,7 @@ This was in early 2018, and within a few months of it going viral, an internal e
 
 This wasn't going to be my full-time day job, though. It was still meant to be a side-project with the aim of someday being managed by a dedicated full-time tea. We assembled a team of really passionate 20+ volunteer frontend and backend developers, UX designers, program managers from Amazon, and who all wanted to either do something they didn't get to as part of their day jobs or wanted to apply their learnings or just have fun working with developers across 5+ countries. It was a time sink - I spent over 2hrs every day in coordination among the team, providing feedback, making sure we built the right thing with the right technologies, and most importantly, keeping the volunteers motivated enough to continue contributing to the project. I got a chance to travel to Dublin and Paris to meet amazing collegues and providing insights about the product. I learned the most I could have in my career so far, collaborating with people across so many different expertise, and when someone volunteers to do something without monetary incentives, they truly offer their best skills. It took me over 50+ meetings, 20+ hack evenings (sometimes even weekends in office with few passionate folks), and over 3 iterations of design to finally deliver a product that was intuitive, flexible, and one that could operate on auto-pilot for User Generated Content with sufficient guardrails to not be a PR disaster for the company. 
 
-We launched for the second time, this time as a well-funded volunteer employee group. It was thrilling, is the mildest way to put it. It was able to attract a steady stream of thousands of visitors per day without much marketing. However it lacked some push to make it a really well-adopted platform across Amazon globally. Eventually COVID-19 forced everyone to WFH, and employees further looked for avenues to interact with others in informal settings and build connections within the company. That's when Amazon Gather realllllyyyy took off. By the end of 2020, we had crossed half a million unique users (out of an estimated employee base of 1 million), and it very soon became one of the most loved internal products by employees across the world. We received thousands of messages from employees about the ease of use and the impact it had on their employee experience at Amazon. We very quickly integrated it with several employee-facing landing pages that ensured long-term investment in Gather. 
+We launched for the second time, this time as a well-funded volunteer employee group. It was thrilling, is the mildest way to put it. It was able to attract a steady stream of thousands of visitors per day without much marketing. However it lacked some push to make it a really well-adopted platform across Amazon globally. Eventually, COVID-19 forced everyone to WFH, and employees further looked for avenues to interact with others in informal settings and build connections within the company. That's when Amazon Gather realllllyyyy took off. By the end of 2020, we had crossed half a million unique users (out of an estimated employee base of 1 million), and it very soon became one of the most loved internal products by employees across the world. We received thousands of messages from employees about the ease of use and the impact it had on their employee experience at Amazon. We very quickly integrated it with several employee-facing landing pages that ensured long-term investment in Gather. 
 
 ## Just Do It Award
 
@@ -43,6 +43,9 @@ My intrapreneurship effort over the last three years in creating the platform "A
 
 Joining a huge corporation like Amazon as a fresh grad could be overwhelming at times, but I followed my personal mantra of "don't wait, just innovate" and identified a key area where I could make an impact. Amazon's culture provided me with the wings and the resources to shape this idea into the product it is today. Based on my personal experience, I encourage new grads to keep innovating, and with perseverance, I'm sure it will be a rewarding journey.
 
-
+The award became special to me in few more ways:
+* It was the most view company all-hands till date - as folks joined over virtual conference
+* It was the first time it was awarded virtually, I missed the chance to meet Jeff Bezos in-person as a result :(
+* Jeff Bezos left the position of CEO the next year, so I ended up being the last receiver of the award from Jeff Bezos :) 
 
 ![Rajat Shah receiving the Just Do It award]({{site.baseurl}}https://raw.githubusercontent.com/shahrajat/shahrajat.github.io/master/assets/jeff-bezos-rajat-shah.jpeg)
