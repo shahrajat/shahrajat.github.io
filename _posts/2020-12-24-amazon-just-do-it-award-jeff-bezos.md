@@ -44,8 +44,8 @@ My intrapreneurship effort over the last three years in creating the platform "A
 Joining a huge corporation like Amazon as a fresh grad could be overwhelming at times, but I followed my personal mantra of "don't wait, just innovate" and identified a key area where I could make an impact. Amazon's culture provided me with the wings and the resources to shape this idea into the product it is today. Based on my personal experience, I encourage new grads to keep innovating, and with perseverance, I'm sure it will be a rewarding journey.
 
 The award became special to me in few more ways:
-* It was the most view company all-hands till date - as folks joined over virtual conference
-* It was the first time it was awarded virtually, I missed the chance to meet Jeff Bezos in-person as a result :(
-* Jeff Bezos left the position of CEO the next year, so I ended up being the last receiver of the award from Jeff Bezos :) 
+* It was the most viewed company all-hands to date - as folks globally joined over virtual conference
+* It was the first time it was awarded virtually, I missed the chance to meet Jeff Bezos in person as a result :(
+* Jeff Bezos left the position of CEO the next year, so I ended up being the last receiver of this award from Jeff Bezos :) 
 
 ![Rajat Shah receiving the Just Do It award]({{site.baseurl}}https://raw.githubusercontent.com/shahrajat/shahrajat.github.io/master/assets/jeff-bezos-rajat-shah.jpeg)
