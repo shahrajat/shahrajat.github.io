@@ -1,71 +1,42 @@
 ---
 layout: page
-title: About me
-subtitle: 'Or: why you would want to talk to me'
-css: /css/aboutme.css
+title: About
+subtitle: A bit more about me
 published: true
 ---
 
-<div id="aboutme-section">
+<div class="about-content">
 
-<p class="about-text">
-<span class="fa fa-briefcase about-icon"></span>
-I am a Senior Software Engineer at Netflix, building the core Model Inference Platform that serves large-scale model inference across all Netflix products at an enormous scale. Previously, I have built large-scale distributed systems at Amazon, Morgan Stanley (full-time), Goldman Sachs (intern), and Indian Institute of Technology, Bombay (intern).
+<p>
+I'm a Senior Software Engineer at Netflix, where I build the core Model Inference Platform &mdash; the infrastructure that serves ML predictions at scale across recommendations, search, ads, and personalization for 200M+ subscribers worldwide.
 </p>
 
-<p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span>
-I finished my schooling phase of life with a Masters in <strong>Computer Science</strong> from <a href="https://ncsu.edu" target="_blank">North Carolina State University</a>. 
-Before that, I did a bachelor's in <strong>Computer Science</strong> from the <a href="http://vnit.ac.in" target="_blank">Visvesvaraya National Institute of Technology</a>, India. 
-Some of the topics I love reading about include Machine Learning, AI, and Software Development.
+<p>
+Before Netflix, I spent four years at Amazon building distributed systems. During the pandemic, I created Amazon Gather, a virtual events platform, as a side project. It was adopted widely across the company and earned me the <strong>Just Do It Award from Jeff Bezos</strong> &mdash; one of Amazon's most prestigious internal recognitions. Prior to Amazon, I worked on institutional securities technology at Morgan Stanley and interned at Goldman Sachs.
 </p>
 
-<p class="about-text">
-<span class="fa fa-code about-icon"></span>
-I enjoy writing <strong>useful & reusable software tools</strong> to help others &mdash; check out <a href="/projects">my projects</a>. 
+<p>
+I hold an M.S. in Computer Science from <a href="https://ncsu.edu" target="_blank">NC State University</a>, where I published research in educational data mining and computer vision. My B.Tech. is from <a href="http://vnit.ac.in" target="_blank">VNIT, India</a>.
 </p>
 
-<p class="about-text">
-<span class="fa fa-heart about-icon"></span>
-I enjoy skating, board games, reading, prototyping new ideas, getting into philosophical debates,
-and meeting new people :) 
-</p>
-
-<p class="about-text">
-<span class="fa fa-file-text-o about-icon"></span>
-The <strong><a href="/projects">projects</a></strong> page is a nice place to see some of my past hobby work, but you can also view my <a href="http://shahrajat.com/resume.pdf" target="_blank">resume</a>. 
-</p>
-
-<p class="about-text">
-<span class="fa fa-globe about-icon"></span>
-Though I would want to travel > 20 countries in my lifetime, only 35% of the effort is done yet - India, USA, UK, Ireland, France, Maldives, Canada :)
+<p>
+Outside of work, I enjoy skating, board games, reading, and prototyping new ideas. I'm always happy to connect &mdash; feel free to reach out.
 </p>
 
 </div>
 
-<div id="contactme-section">
-<h1 id="contact">Contact</h1>
-
-<p>You can find <a href="mailto:hi@shahrajat.com">my email</a> and social media links at the bottom of every page. As I said, I love meeting new people so don't hesitate to send a message!</p>
-
-<form action="https://formspree.io/f/mgepyyeo" method="POST" class="form" id="contact-form">
-  <p>You can also send me a quick message using the form below:</p>
-  <div class="row">
-    <div class="col-xs-6">
-      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
+<div class="contact-form">
+  <h2>Get in touch</h2>
+  <p class="text-muted">Or email me directly at <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.</p>
+  <form action="https://formspree.io/f/mgepyyeo" method="POST">
+    <div class="form-row">
+      <input type="text" name="name" placeholder="Name" title="Name" required>
+      <input type="email" name="_replyto" placeholder="Email" title="Email" required>
     </div>
-    <div class="col-xs-6">
-      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
-    </div>
-  </div>
-  <input type="hidden" name="_subject" value="New submission from shahrajat.com">
-  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
-  <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
-  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
-</form>
-
+    <input type="hidden" name="_subject" value="New message from shahrajat.com">
+    <textarea name="content" placeholder="Message" title="Message" required rows="4"></textarea>
+    <input type="text" name="_gotcha" style="display:none">
+    <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!">
+    <button type="submit">Send Message</button>
+  </form>
 </div>
-
-<br/><br/>
-<hr class="small" />

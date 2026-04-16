@@ -1,51 +1,112 @@
 ---
-layout: page
-css: "/css/index.css"
-title: Hi, I'm Rajat
-subtitle: Software Engineer / Reader / Explorer
+layout: base
+title: Rajat Shah
 ---
 
-<div class="list-filters">
-  <a href="/" class="list-filter filter-selected">All posts</a>
-  <a href="/life" class="list-filter">Life</a>
-  <a href="/machine-learning" class="list-filter">Machine Learning</a>
+<div class="container">
+  <div class="hero">
+    <h1>Rajat Shah</h1>
+    <p class="lead">
+      Senior Software Engineer at Netflix, building the core Model Inference Platform
+      that serves large-scale ML predictions across all Netflix products.
+      Previously built distributed systems at Amazon, Morgan Stanley, and Goldman Sachs.
+    </p>
+    <div class="hero-links">
+      <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+        GitHub
+      </a>
+      <a href="https://linkedin.com/{{ site.author.linkedin }}" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+        LinkedIn
+      </a>
+      <a href="https://scholar.google.com/citations?user=jWRJqCcAAAAJ&hl=en" target="_blank" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+        Scholar
+      </a>
+      <a href="mailto:{{ site.author.email }}">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
+        Email
+      </a>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">Experience</h2>
+    <ul class="timeline">
+      <li class="timeline-item">
+        <span class="timeline-date">2021 &mdash; Present</span>
+        <div class="timeline-content">
+          <h3>Netflix</h3>
+          <p class="role">Senior Software Engineer, Model Inference Platform</p>
+          <p>Building the core inference infrastructure that serves ML predictions at enormous scale across all Netflix products &mdash; recommendations, search, ads, and more.</p>
+        </div>
+      </li>
+      <li class="timeline-item">
+        <span class="timeline-date">2017 &mdash; 2021</span>
+        <div class="timeline-content">
+          <h3>Amazon</h3>
+          <p class="role">Software Development Engineer</p>
+          <p>Built large-scale distributed systems. Created Amazon Gather, a virtual events platform, as a side project that earned the <strong>Just Do It Award from Jeff Bezos</strong> &mdash; one of Amazon's most prestigious internal honors.</p>
+        </div>
+      </li>
+      <li class="timeline-item">
+        <span class="timeline-date">2016 &mdash; 2017</span>
+        <div class="timeline-content">
+          <h3>Morgan Stanley</h3>
+          <p class="role">Software Engineer</p>
+          <p>Worked on large-scale distributed systems in the Institutional Securities Technology division.</p>
+        </div>
+      </li>
+      <li class="timeline-item">
+        <span class="timeline-date">2015</span>
+        <div class="timeline-content">
+          <h3>Goldman Sachs</h3>
+          <p class="role">Summer Analyst (Intern)</p>
+          <p>Engineering internship in the Securities division.</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">Education</h2>
+    <ul class="timeline">
+      <li class="timeline-item">
+        <span class="timeline-date">2015 &mdash; 2016</span>
+        <div class="timeline-content">
+          <h3>North Carolina State University</h3>
+          <p>M.S. Computer Science &mdash; Machine Learning, NLP, AI</p>
+        </div>
+      </li>
+      <li class="timeline-item">
+        <span class="timeline-date">2011 &mdash; 2015</span>
+        <div class="timeline-content">
+          <h3>VNIT, India</h3>
+          <p>B.Tech. Computer Science &amp; Engineering</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">Selected Work</h2>
+    <div class="card-grid">
+      <a href="/work" class="card" style="text-decoration: none; color: inherit;">
+        <h3>ML Inference at Netflix Scale</h3>
+        <p>Core platform powering real-time model predictions across recommendations, search, and ads for 200M+ subscribers.</p>
+        <span class="meta">Infrastructure &middot; ML Systems &middot; Distributed Computing</span>
+      </a>
+      <a href="/work" class="card" style="text-decoration: none; color: inherit;">
+        <h3>Amazon Gather &amp; Just Do It Award</h3>
+        <p>Built a virtual events and networking platform at Amazon. Recognized with the Just Do It Award by Jeff Bezos.</p>
+        <span class="meta">Full-Stack &middot; Side Project &middot; Leadership</span>
+      </a>
+      <a href="/research" class="card" style="text-decoration: none; color: inherit;">
+        <h3>Research Publications</h3>
+        <p>Published work in Educational Data Mining and IEEE on deep learning for automated grading and screenshot analysis.</p>
+        <span class="meta">Deep Learning &middot; NLP &middot; EDM &middot; IEEE</span>
+      </a>
+    </div>
+  </div>
 </div>
-
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article>
-    <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
-	    <h2 class="post-title">{{ post.title }}</h2>
-	
-	    {% if post.subtitle %}
-	    <h3 class="post-subtitle">
-	      {{ post.subtitle }}
-	    </h3>
-	    {% endif %}
-      <p class="post-meta">
-        Posted on {{ post.date | date: "%B %-d, %Y" }}
-      </p>
-
-      <div class="post-entry">
-        {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-        <span href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</span>
-      </div>
-    </a>  
-   </article>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
