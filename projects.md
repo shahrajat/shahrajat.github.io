@@ -1,55 +1,72 @@
 ---
 layout: page
 title: Projects
-subtitle: What's been eating away my free time
-comments: true
+subtitle: Side projects and academic work
 published: true
 ---
 
-A collection of key projects in have done either in my free time or during Masters and Bachelors studies. 
+<div class="project-section">
 
----
+## ML & Data Science
 
-## Data Science/Machine Learning
+<div class="project-item">
+<h3><a href="https://github.com/shahrajat/Data-Science/tree/master/music-recommender" target="_blank">Music Recommender System</a></h3>
+<p>Collaborative filtering recommender built on implicit feedback data using Apache Spark's MLlib. Scaled to large datasets using distributed computing.</p>
+<span class="tag">Python</span> <span class="tag">Spark</span> <span class="tag">MLlib</span>
+</div>
 
-Includes Projects from courses taken at NC State University: Machine Learning for User Adaptive Systems, Algorithms for Data Guided Business Intelligence, Foundation of Data Science
+<div class="project-item">
+<h3><a href="https://github.com/shahrajat/Data-Science/tree/master/music-recommender" target="_blank">Handwriting Recognition & Generation</a></h3>
+<p>End-to-end pipeline: character segmentation on handwritten documents, MNIST-trained classifiers for recognition, and RNNs for sequence generation of custom handwriting fonts. <a href="http://shahrajat.github.io/assets/CSC_591_ML_Handwriting.pdf" target="_blank">Report</a></p>
+<span class="tag">Python</span> <span class="tag">RNN</span> <span class="tag">MNIST</span> <span class="tag">OCR</span>
+</div>
 
--  [2016] **[Music Recommender System using Apache Spark and Python](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Built a Music Recommender System using Collaborative Filtering approach on implicit feedback dataset with Apache Sparks's Machine Learning Library (MLib) in Python.
+<div class="project-item">
+<h3><a href="https://github.com/shahrajat/Data-Science/tree/master/adwords-placement" target="_blank">Adwords Placement Optimization</a></h3>
+<p>Implemented Greedy, MSVV, and Balance algorithms for ad slot allocation. MSVV maximizes total revenue across constrained ad budgets.</p>
+<span class="tag">R</span> <span class="tag">Optimization</span>
+</div>
 
--  [2016] **[Handwriting Recognition, Learning and Generation](https://github.com/shahrajat/Data-Science/tree/master/music-recommender){:target="_blank"}** - Machine Learning based custom handwriting font generator. Applied character segmentation to handwritten documents, used MNIST dataset to train various Machine Learning models for character recognition, extracted key user specific writing features and studied application of RNNs for sequence generation.
-[Report](http://shahrajat.github.io/assets/CSC_591_ML_Handwriting.pdf)
+<div class="project-item">
+<h3><a href="https://github.com/shahrajat/Data-Science/tree/master/anomaly-detection" target="_blank">Anomaly Detection in Time-Evolving Networks</a></h3>
+<p>Signature Similarity method for detecting anomalies in temporal graphs. Based on <a href="http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf" target="_blank">Web Graph Similarity for Anomaly Detection</a> (Stanford).</p>
+<span class="tag">Python</span> <span class="tag">Graph Analysis</span>
+</div>
 
--  [2016] **[Adwords Placement](https://github.com/shahrajat/Data-Science/tree/master/adwords-placement){:target="_blank"}** - Given that advertisement giants like Google, Yahoo only make revenue only if the viewer clicks the ads, it's important to make the clever decision of which Ads should be shown (in limited number of ads slots available) depending on the query typed. Implemented Greedy, MSVV, and Balance algorithms in R for a very simplified version of this problem statement. MSSV beats other algorithms in terms of total revenue generated.
+</div>
 
--  [2015] **[Anomaly Detection in Time Evolving Networks](https://github.com/shahrajat/Data-Science/tree/master/anomaly-detection){:target="_blank"}** - Implemented Signature Similarity method for detecting Anomaly in time evolving graphs.  Because of the way the similarity is calculated, anomalous graphs are identified by two consecutive anomalous time points in the output.<br/>
-Based on paper: [Web Graph Similarity for Anomaly Detection](http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf){:target="_blank"}
+<div class="project-section">
 
-## Web/Mobile Development
+## Web & Mobile
 
-I really enjoy building web/mobile applications, whether big or small. Throughout my time in undergrad schoo, I lead the development of web portals for several technical events and clubs. My recent work experiences at Amazon and Morgan Stanley has further enchanced my skills in it.
+<div class="project-item">
+<h3><a href="https://github.com/shahrajat/MusicRec" target="_blank">Context-Aware Music Player (Android)</a></h3>
+<p>Prototype Android app that adapts music recommendations in real-time based on detected user activity &mdash; driving, working out, relaxing.</p>
+<span class="tag">Android</span> <span class="tag">Java</span> <span class="tag">Context-Aware</span>
+</div>
 
-- [Ongoing] **[spamtest](https://spamtest.herokuapp.com/){:target="_blank"}** - Building a Django Python Web app for predicting if an email content is spam. Predicts the spamminess score based on a ML model pre-trained on huge dataset.
+<div class="project-item">
+<h3>VLive &mdash; College Social Network</h3>
+<p>Built from scratch during sophomore year. Forum discussions, real-time chat, video calls, and notice board for 3000+ students. 2 months, 5 team members.</p>
+<span class="tag">JavaScript</span> <span class="tag">PHP</span> <span class="tag">MySQL</span>
+</div>
 
--  [2016] **[Context-aware Music Player (Android)](https://github.com/shahrajat/MusicRec){:target="_blank"}** - MusicRec is a prototype of a context-aware Android application which adapts at run-time bsaed on user's activity. Song recommendations is based on whether user is driving, working-out, relaxing, etc.
+</div>
 
-- [2013-14] **Events Portal** - Developed VNIT's Annual Management festival (Consortium'12), and lead development of Annual Technical festival (AXIS'13) web portals. Handling thousands of participants' data, optimizing webpages for faster load was bit of a challenge.
+<div class="project-section">
 
-- [2011-12] **VLive - VNIT's Social Networking Website** - I feel most proud of building it from scratch using JavaScript, PHP and MySQL during the winter break of my sophomore year in undergrad school. 2 dedicated months, 5 team members and a bunch of awesome features like - forum discussion, facebook style chat, video call and notice board. Unfortunately it was hosted on internal college servers and hence inaccessible from outside.
+## Experiments
 
-    **Mini Apps:**
-    
-     - [2015] **[Minified Guess the Correlation Game](http://shahrajat.com/assets/apps/guess-the-correlation.html?#){:target="_blank"}** - Built a minified version of the famous Guess the correlation game.
-     - [2015] **[Simple Linear Regression](http://shahrajat.com/assets/apps/simple-linear-regression.html?#){:target="_blank"}** - Computes the Linear Regression line for two variables.
-     - [2013] **[A* JavaScript](http://shahrajat.com/assets/apps/astar.html){:target="_blank"}** - A* pathfinding algorithm JavaScript implementation.
+Small interactive demos built for fun.
 
-## Talks
+<div class="project-item">
+<h3>
+<a href="/assets/apps/astar.html" target="_blank">A* Pathfinding</a> &middot;
+<a href="/assets/apps/guess-the-correlation.html" target="_blank">Guess the Correlation</a> &middot;
+<a href="/assets/apps/simple-linear-regression.html" target="_blank">Linear Regression</a>
+</h3>
+<p>Interactive JavaScript implementations of pathfinding, statistics games, and regression visualization.</p>
+<span class="tag">JavaScript</span> <span class="tag">Canvas</span>
+</div>
 
-- [2016] **[Recurrent Neural Networks](https://docs.google.com/presentation/d/1-Y3rc-Y1jryat7kkzpZStoprk2dc4fVnpmezkAcrv-c/pub?start=false&loop=false&delayms=10000&slide=id.g742e3e7cd_1_16){:target="_blank"}** - Presented a brief overview and important applications of Recurrent Neural Networks in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html){:target="_blank"}.
-
-- [2016] **[Gradient Descent and/or Stochastic Gradient Descent for Logistic Regression](https://docs.google.com/presentation/d/1ViSaw_DzYXfKMjt6JBoN1RbgIRVCkNj2q5XAG3wjPFU/pub?start=false&loop=false&delayms=10000){:target="_blank"}** - Gradient Descent and Stochastic Gradient Descent are techniques used in optimization of objective functions in various Machine Learning models. Presented it in [CSC 591/791 Algorithms for Data Guided Business Intelligence course in Spring 2016](https://engineeringonline.ncsu.edu/onlinecourses/coursemarketing/SPR-2016/CSC591-791.html){:target="_blank"}.
-
-- [2013] 
-**[Introduction to Web Development](http://www.slideshare.net/rajatsshah/introduction-to-web-designing){:target="_blank"}** - As the Vice-Chairperson of ACM at VNIT, presented an introductory lecture on Web Development to the members of ACM Students' Chapter at VNIT.
-
-
----
+</div>

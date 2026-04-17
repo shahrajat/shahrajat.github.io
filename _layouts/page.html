@@ -2,20 +2,14 @@
 layout: base
 ---
 
-{% include header.html type="page" %}
-<script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {{ content }}
-	    {% if page.comments %}
-        <div class="disqus-comments">
-	        {% include disqus.html %}
-        </div>
-	    {% endif %}
-    </div>
+<div class="container">
+  {% if page.title %}
+  <div class="page-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}
+    <p class="subtitle">{{ page.subtitle }}</p>
+    {% endif %}
   </div>
+  {% endif %}
+  {{ content }}
 </div>
