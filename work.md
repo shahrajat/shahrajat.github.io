@@ -7,7 +7,7 @@ published: true
 
 <div class="work-entry">
   <h3>Netflix &mdash; Model Inference Platform</h3>
-  <p class="work-meta">Senior Software Engineer &middot; 2021 &ndash; Present</p>
+  <p class="work-meta">Staff Software Engineer &middot; 2021 &ndash; Present</p>
   <ul>
     <li>Building the core Model Inference Platform that serves large-scale ML predictions across all Netflix products &mdash; powering recommendations, search, ads, and personalization for 200M+ subscribers.</li>
     <li>Designing and operating inference infrastructure that handles massive throughput with strict latency requirements, balancing cost efficiency with reliability.</li>
