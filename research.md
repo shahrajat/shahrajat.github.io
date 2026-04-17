@@ -5,7 +5,7 @@ subtitle: Academic publications and research work
 published: true
 ---
 
-My research focused on Machine Learning, Natural Language Processing, and Computer Vision during graduate school at NC State University.
+My research was in Machine Learning, NLP, and Computer Vision during grad school at NC State.
 
 <a href="https://scholar.google.com/citations?user=jWRJqCcAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
 
@@ -36,6 +36,6 @@ My research focused on Machine Learning, Natural Language Processing, and Comput
 
 ## Research Experience
 
-**Laboratory for Analytic Sciences** (Fall 2016) &mdash; Graduate Research Assistant working on a novel approach for instrumentation software based on desktop screenshot analysis. Implemented algorithms for image analysis, OCR, and text analysis.
+**Laboratory for Analytic Sciences** (Fall 2016) - Grad RA working on instrumentation software based on desktop screenshot analysis. Image analysis, OCR, and text analysis.
 
-**Center for Educational Informatics, NC State** (2015&ndash;2016) &mdash; Graduate Research Assistant under Dr. Min Chi. Built and evaluated models for Automatic Short Answer Grading (ASAG) for Intelligent Tutoring Systems.
+**Center for Educational Informatics, NC State** (2015-2016) - Grad RA under Dr. Min Chi. Built and evaluated models for Automatic Short Answer Grading for Intelligent Tutoring Systems.
