@@ -7,6 +7,8 @@ tags:
 published: true
 ---
 
+![Rajat Shah receiving the Just Do It award]({{site.baseurl}}https://raw.githubusercontent.com/shahrajat/shahrajat.github.io/master/assets/jeff-bezos-rajat-shah.jpeg)
+
 ## College years
 Back in my sophomore year as an undergrad, I got obsessed with doing software projects unrelated to my coursework. It all started when I was selected in my batch to build the complete website for my college's annual business and management festival called Consortium. Here is the [Wayback machine's snapshot](https://web.archive.org/web/20120315191008/http://www.consortiumvnit.com/index.php) of what it looked like (some of the components no longer work now that most browsers no longer support flash). C and Data Structure coursework in my freshman years had completely put me off and got me disinterested in learning programming (blame the super theoretical teaching methods?). Learning to build websites with JS, PHP, and MySQL in a team gave me much-needed confidence and introduced me to full-stack development. More importantly, I lacked formal awareness of the Software development lifecycle and the challenges of collaborating on team projects, which surprisingly made it more fun. I still chuckle imagining how we used to share code among ourselves as zip files, as nobody told us what Git was. To date, nothing beats the thrill of deploying untested, unreviewed duct tape of several JQuery plugins and hacky PHP MySQL code to phpMyAdmin. 
 
@@ -47,5 +49,3 @@ The award became special to me in few more ways:
 * It was the most viewed company all-hands to date - as folks globally joined over virtual conference
 * It was the first time it was awarded virtually, I missed the chance to meet Jeff Bezos in person as a result :(
 * Jeff Bezos left the position of CEO the next year, so I ended up being the last receiver of this award from Jeff Bezos :) 
-
-![Rajat Shah receiving the Just Do It award]({{site.baseurl}}https://raw.githubusercontent.com/shahrajat/shahrajat.github.io/master/assets/jeff-bezos-rajat-shah.jpeg)
