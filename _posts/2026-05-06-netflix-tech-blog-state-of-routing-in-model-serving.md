@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-I co-authored a new post on the [Netflix Tech Blog](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741) with [Nipun Kumar](https://www.linkedin.com/in/nipunk/) and [Peter Chng](https://www.linkedin.com/in/peterchng/). It is the first in a multi-part series about Netflix's centralized ML model serving platform, which today serves hundreds of model types and versions at over 1 million requests per second across personalization, commerce, fraud, and more.
+I co-authored a new post on the [Netflix Tech Blog](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741). It is the first in a multi-part series about Netflix's centralized ML model serving platform, which today serves hundreds of model types and versions at over 1 million requests per second across personalization, commerce, fraud, and more.
 
 In this post, we focus on a deceptively simple question that sits at the heart of any large-scale ML serving system:
 
