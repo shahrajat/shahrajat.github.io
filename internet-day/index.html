@@ -956,62 +956,6 @@ client.call(
 </section>
 
 <!-- ═══════════════════════════════════════
-     SLIDE 27 — INTERNET-SCALE PATTERNS
-═══════════════════════════════════════ -->
-<section class="slide">
-  <div class="label">Zoom Out</div>
-  <h2>These Are Internet-Scale Patterns</h2>
-  <div style="margin-top:20px;display:grid;grid-template-columns:1fr 48px 1fr;gap:10px 0;align-items:center;width:100%;max-width:1060px;">
-
-    <!-- Row 1 -->
-    <div class="takeaway" style="margin:0;">
-      <div class="takeaway-num">1</div>
-      <div>
-        <div class="takeaway-title">Name the use case, not the endpoint</div>
-        <div class="takeaway-sub">Clients say <em>what</em> they want. Infrastructure decides <em>how</em> to get it.</div>
-      </div>
-    </div>
-    <div style="text-align:center;font-size:22px;color:var(--accent);font-weight:700;">→</div>
-    <div style="background:var(--bg-card);border:1px solid var(--border-hi);border-radius:12px;padding:14px 18px;">
-      <div style="font-size:18px;font-weight:700;color:var(--text);margin-bottom:4px;">🌐 DNS</div>
-      <div style="font-size:14px;color:var(--text-dim);line-height:1.5;">You say "google.com" — DNS resolves the address. Your request goes direct. DNS never stays on the line.</div>
-    </div>
-
-    <!-- Row 2 -->
-    <div class="takeaway" style="margin:0;">
-      <div class="takeaway-num">2</div>
-      <div>
-        <div class="takeaway-title">Keep the critical path thin</div>
-        <div class="takeaway-sub">Resolve routing metadata separately. Send data direct.</div>
-      </div>
-    </div>
-    <div style="text-align:center;font-size:22px;color:var(--accent);font-weight:700;">→</div>
-    <div style="background:var(--bg-card);border:1px solid var(--border-hi);border-radius:12px;padding:14px 18px;">
-      <div style="font-size:18px;font-weight:700;color:var(--text);margin-bottom:4px;">📡 IP Routing</div>
-      <div style="font-size:14px;color:var(--text-dim);line-height:1.5;">Each router reads only the destination header and forwards the packet — never inspects the payload.</div>
-    </div>
-
-    <!-- Row 3 -->
-    <div class="takeaway" style="margin:0;">
-      <div class="takeaway-num">3</div>
-      <div>
-        <div class="takeaway-title">Protocol choice shapes architecture</div>
-        <div class="takeaway-sub">gRPC vs REST determines what routing tools can and can't do.</div>
-      </div>
-    </div>
-    <div style="text-align:center;font-size:22px;color:var(--accent);font-weight:700;">→</div>
-    <div style="background:var(--bg-card);border:1px solid var(--border-hi);border-radius:12px;padding:14px 18px;">
-      <div style="font-size:18px;font-weight:700;color:var(--text);margin-bottom:4px;">⚖️ Load Balancing</div>
-      <div style="font-size:14px;color:var(--text-dim);line-height:1.5;">L4 vs L7 load balancers have completely different routing capabilities — the protocol layer determines what's possible.</div>
-    </div>
-
-  </div>
-  <div style="margin-top:24px;font-size:18px;font-style:italic;color:var(--text-mid);max-width:820px;line-height:1.4;border-left:3px solid var(--accent);padding-left:20px;">
-    "We didn't invent these patterns. We just had to learn them the hard way — at a million requests per second."
-  </div>
-</section>
-
-<!-- ═══════════════════════════════════════
      SLIDE 28 — THANK YOU
 ═══════════════════════════════════════ -->
 <section class="slide centered">
@@ -1108,7 +1052,7 @@ client.call(
     { id: 'act-1',  start: 5,  end: 9  },  // slides 6–10 (transition at 10)
     { id: 'act-2',  start: 11, end: 13 },  // slides 12–14 (transition at 14)
     { id: 'act-3',  start: 15, end: 25 },  // slides 16–26 (transition at 26)
-    { id: 'recap',  start: 26, end: 29 },  // slides 27–30
+    { id: 'recap',  start: 26, end: 28 },  // slides 27–29
   ];
   const actBar = document.getElementById('act-progress');
 
