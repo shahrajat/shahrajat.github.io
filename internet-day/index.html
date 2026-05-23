@@ -5,6 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Routing ML Inference Traffic at Internet Scale — Rajat Shah · Internet Day SF 2026</title>
   <link rel="stylesheet" href="styles.css">
+
+<style>
+[data-show-at] {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.35s ease, transform 0.35s ease;
+  pointer-events: none;
+}
+[data-show-at].sub-step-visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+</style>
 </head>
 <body>
 
@@ -891,31 +905,53 @@ client.call(
 <!-- ═══════════════════════════════════════
      SLIDE 26 — TAKEAWAYS
 ═══════════════════════════════════════ -->
-<section class="slide">
+<section class="slide" data-substeps="6">
   <div class="label">Takeaways</div>
   <h2>Three Patterns That Work at Internet Scale</h2>
-  <div class="stack" style="margin-top:28px;">
-    <div class="takeaway">
+  <div style="margin-top:18px;display:grid;grid-template-columns:1fr 44px 1fr;gap:10px 0;width:100%;max-width:1060px;align-items:center;">
+
+    <!-- Row 1 -->
+    <div class="takeaway" style="margin:0;" data-show-at="1">
       <div class="takeaway-num">1</div>
       <div>
         <div class="takeaway-title">Name the use case, not the endpoint</div>
-        <div class="takeaway-sub">Clients say <em>what</em> they want. Infrastructure decides <em>how</em> to get it. This decouples innovation from coordination.</div>
+        <div class="takeaway-sub">Clients say <em>what</em> they want. Infrastructure decides <em>how</em> to get it.</div>
       </div>
     </div>
-    <div class="takeaway">
+    <div style="text-align:center;font-size:22px;color:var(--accent);font-weight:700;" data-show-at="2">→</div>
+    <div style="background:var(--bg-card);border:1px solid var(--border-hi);border-radius:12px;padding:14px 18px;" data-show-at="2">
+      <div style="font-size:17px;font-weight:700;color:var(--text);margin-bottom:4px;">🌐 DNS</div>
+      <div style="font-size:14px;color:var(--text-dim);line-height:1.5;">You say "google.com" — DNS resolves the address. Your request goes direct. DNS never stays on the line.</div>
+    </div>
+
+    <!-- Row 2 -->
+    <div class="takeaway" style="margin:0;" data-show-at="3">
       <div class="takeaway-num">2</div>
       <div>
         <div class="takeaway-title">Keep the critical path thin</div>
-        <div class="takeaway-sub">Resolve routing metadata separately. Send data direct. Don't bundle two problems through one service.</div>
+        <div class="takeaway-sub">Resolve routing metadata separately. Send data direct.</div>
       </div>
     </div>
-    <div class="takeaway">
+    <div style="text-align:center;font-size:22px;color:var(--accent);font-weight:700;" data-show-at="4">→</div>
+    <div style="background:var(--bg-card);border:1px solid var(--border-hi);border-radius:12px;padding:14px 18px;" data-show-at="4">
+      <div style="font-size:17px;font-weight:700;color:var(--text);margin-bottom:4px;">📡 IP Routing</div>
+      <div style="font-size:14px;color:var(--text-dim);line-height:1.5;">Each router reads only the destination header, forwards the packet — never inspects the payload.</div>
+    </div>
+
+    <!-- Row 3 -->
+    <div class="takeaway" style="margin:0;" data-show-at="5">
       <div class="takeaway-num">3</div>
       <div>
         <div class="takeaway-title">Protocol choice shapes architecture</div>
-        <div class="takeaway-sub">gRPC vs REST isn't just a performance decision — it determines what off-the-shelf routing tools can and can't do.</div>
+        <div class="takeaway-sub">gRPC vs REST determines what off-the-shelf routing tools can and can't do.</div>
       </div>
     </div>
+    <div style="text-align:center;font-size:22px;color:var(--accent);font-weight:700;" data-show-at="6">→</div>
+    <div style="background:var(--bg-card);border:1px solid var(--border-hi);border-radius:12px;padding:14px 18px;" data-show-at="6">
+      <div style="font-size:17px;font-weight:700;color:var(--text);margin-bottom:4px;">⚖️ Load Balancing</div>
+      <div style="font-size:14px;color:var(--text-dim);line-height:1.5;">L4 vs L7 load balancers have completely different capabilities — protocol layer determines what routing is possible.</div>
+    </div>
+
   </div>
 </section>
 
@@ -1041,6 +1077,31 @@ client.call(
     dots.push(d);
   });
 
+  // ── Sub-step system ──────────────────────────────────
+  const subStepState = {};
+  function getMaxSubStep(idx) {
+    const v = parseInt(slides[idx]?.dataset?.substeps);
+    return isNaN(v) ? 0 : v;
+  }
+  function updateSubStepVisibility(idx) {
+    const cur_ = subStepState[idx] || 0;
+    slides[idx].querySelectorAll('[data-show-at]').forEach(el => {
+      el.classList.toggle('sub-step-visible', cur_ >= parseInt(el.dataset.showAt));
+    });
+  }
+  function tryAdvanceSubStep() {
+    const max = getMaxSubStep(cur);
+    if (!max) return false;
+    const c = subStepState[cur] || 0;
+    if (c < max) { subStepState[cur] = c + 1; updateSubStepVisibility(cur); return true; }
+    return false;
+  }
+  function tryRegressSubStep() {
+    const c = subStepState[cur] || 0;
+    if (c > 0) { subStepState[cur] = c - 1; updateSubStepVisibility(cur); return true; }
+    return false;
+  }
+
   // Act ranges (0-based slide indices)
   const acts = [
     { id: 'intro',  start: 0,  end: 4  },  // slides 1–4 + transition
@@ -1064,7 +1125,9 @@ client.call(
   function goTo(n) {
     slides[cur].classList.remove('active');
     dots[cur]?.classList.remove('active');
-    cur = Math.max(0, Math.min(n, total - 1));
+    const next = Math.max(0, Math.min(n, total - 1));
+    if (next < cur) { subStepState[next] = 0; updateSubStepVisibility(next); }
+    cur = next;
     slides[cur].classList.add('active');
     dots[cur]?.classList.add('active');
     document.getElementById('cur').textContent = cur + 1;
@@ -1074,8 +1137,12 @@ client.call(
   }
 
   document.addEventListener('keydown', e => {
-    if (e.key === 'ArrowRight' || e.key === 'ArrowDown')  goTo(cur + 1);
-    if (e.key === 'ArrowLeft'  || e.key === 'ArrowUp')    goTo(cur - 1);
+    if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+      if (!tryAdvanceSubStep()) goTo(cur + 1);
+    }
+    if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+      if (!tryRegressSubStep()) goTo(cur - 1);
+    }
   });
 
   // Init — restore slide from URL hash if present
