@@ -117,7 +117,7 @@
 <section class="slide centered">
   <div style="font-size:72px;font-weight:900;letter-spacing:-0.03em;line-height:1;color:var(--accent);">The Routing Problem</div>
   <div style="font-size:20px;color:var(--text-mid);margin-top:16px;max-width:580px;line-height:1.5;">
-    Why routing ML inference traffic is harder than it looks
+    Why routing ML traffic is harder than it looks
   </div>
 </section>
 
@@ -130,7 +130,7 @@
     <div>
       <h2>ML Powers Your Netflix Experience</h2>
       <ul class="bullets" style="margin-top:20px;">
-        <li><span class="ico">🎬</span><span><strong>Continue Watching</strong> — ranks your unfinished shows by likelihood to return</span></li>
+        <li><span class="ico">🎬</span><span><strong>Continue Watching</strong> — ranks your unfinished shows by likelihood of returning</span></li>
         <li><span class="ico">🔍</span><span><strong>Search results</strong> — personalized ranking beyond text match</span></li>
         <li><span class="ico">🏠</span><span><strong>Homepage rows</strong> — which rows to show, and in what order</span></li>
         <li><span class="ico">💳</span><span><strong>Fraud detection</strong> — real-time risk scoring on every payment</span></li>
@@ -153,7 +153,7 @@
 <section class="slide">
   <div class="label">The Routing Problem</div>
   <h2 style="margin-bottom:4px;">How a Netflix Request Travels <span style="font-size:14px;font-weight:500;color:var(--text-dim);letter-spacing:0;text-transform:none;">(illustrative)</span></h2>
-  <div style="font-size:15px;color:var(--text-dim);margin-bottom:8px;">A single request can cross many services before a response is returned — simplified for illustration</div>
+  <div style="font-size:15px;color:var(--text-dim);margin-bottom:8px;">A single request can cross many services before a response is returned</div>
   <svg viewBox="0 0 762 284" width="100%" style="max-height:54vh;" aria-label="Request flow mesh through Netflix microservices">
     <defs>
       <style>
@@ -805,10 +805,10 @@ client.call(
       Sidecar returns a <strong style="color:var(--text);">routing key</strong> <em style="color:var(--text-dim);font-size:0.88em;">(a short string like a cluster ID, carried in the request header)</em> + model config. Steps aside.<br><br>
       <span class="green" style="font-weight:700;">Step 2 —</span> Client sends the full request directly,<br>
       routing key in the header. <strong style="color:var(--text);">Envoy</strong> reads the header, routes to the right compute cluster.<br>
-      <em style="color:var(--text-dim);">Sidecar never touched the payload.</em>
+      <em style="color:var(--text-dim);">Sidecar never touches the payload.</em>
     </div>
     <div style="padding:16px 24px;background:var(--accent-dim);border:1px solid var(--accent);border-radius:10px;font-size:17px;color:var(--text-mid);line-height:1.5;">
-      The sidecar is the <strong style="color:var(--text);">411 operator</strong> — gives you the number, then steps aside.
+      The sidecar is the <strong style="color:var(--text);">directory assistance service</strong> — gives you the destination, then steps aside.
     </div>
   </div>
 </section>
