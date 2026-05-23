@@ -261,8 +261,7 @@
 ═══════════════════════════════════════ -->
 <section class="slide">
   <div class="label">The Routing Problem</div>
-  <div class="two-col" style="align-items:center;margin-top:8px;">
-    <div>
+  <div style="max-width:820px;">
       <h2>Netflix is a Microservices System</h2>
       <ul class="bullets" style="margin-top:20px;">
         <li><span class="ico">🏗️</span><span>1000s of independent services — each owns one job</span></li>
@@ -273,63 +272,6 @@
       <div style="margin-top:24px;font-size:17px;color:var(--text-dim);font-style:italic;">
         The routing problem isn't one service's concern — it's every service's concern.
       </div>
-    </div>
-    <!-- SVG: microservices calling each other + ML clusters -->
-    <svg viewBox="0 0 340 300" width="100%" style="max-height:320px;" aria-label="Netflix microservices calling ML models">
-      <defs>
-        <marker id="arr-ms" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
-          <path d="M0,0 L10,5 L0,10 z" fill="#2e3f60"/>
-        </marker>
-        <marker id="arr-ml" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto">
-          <path d="M0,0 L10,5 L0,10 z" fill="#4A9EFF"/>
-        </marker>
-      </defs>
-
-      <!-- Services (left column) -->
-      <rect x="2"   y="30"  width="108" height="38" rx="7" fill="#141925" stroke="#2e3f60" stroke-width="1.5"/>
-      <text x="55"  y="54"  text-anchor="middle" fill="#8fa0bf" font-size="15" font-family="Inter,sans-serif" font-weight="600">Homepage</text>
-
-      <rect x="2"   y="90"  width="108" height="38" rx="7" fill="#141925" stroke="#2e3f60" stroke-width="1.5"/>
-      <text x="55"  y="114" text-anchor="middle" fill="#8fa0bf" font-size="15" font-family="Inter,sans-serif" font-weight="600">Search</text>
-
-      <rect x="2"   y="150" width="108" height="38" rx="7" fill="#141925" stroke="#2e3f60" stroke-width="1.5"/>
-      <text x="55"  y="174" text-anchor="middle" fill="#8fa0bf" font-size="15" font-family="Inter,sans-serif" font-weight="600">Playback</text>
-
-      <rect x="2"   y="210" width="108" height="38" rx="7" fill="#141925" stroke="#2e3f60" stroke-width="1.5"/>
-      <text x="55"  y="234" text-anchor="middle" fill="#8fa0bf" font-size="15" font-family="Inter,sans-serif" font-weight="600">Payments</text>
-
-      <text x="55" y="272" text-anchor="middle" fill="#6b80a0" font-size="13" font-family="Inter,sans-serif">1000s of services…</text>
-
-      <!-- Service-to-service arrows (faint, left region) -->
-      <line x1="55" y1="68"  x2="55" y2="87"  stroke="#1e2d46" stroke-width="1.2" marker-end="url(#arr-ms)"/>
-      <line x1="55" y1="128" x2="55" y2="147" stroke="#1e2d46" stroke-width="1.2" marker-end="url(#arr-ms)"/>
-      <line x1="55" y1="188" x2="55" y2="207" stroke="#1e2d46" stroke-width="1.2" marker-end="url(#arr-ms)"/>
-
-      <!-- ML Clusters (right column) -->
-      <rect x="232" y="10"  width="106" height="40" rx="7" fill="#0d1e38" stroke="#4A9EFF" stroke-width="1.5"/>
-      <text x="285" y="28"  text-anchor="middle" fill="#4A9EFF" font-size="13" font-family="Inter,sans-serif" font-weight="700">ML Cluster</text>
-      <text x="285" y="43"  text-anchor="middle" fill="#6b80a0" font-size="12" font-family="Inter,sans-serif">Ranking model</text>
-
-      <rect x="232" y="70"  width="106" height="40" rx="7" fill="#0d1e38" stroke="#4A9EFF" stroke-width="1.5"/>
-      <text x="285" y="88"  text-anchor="middle" fill="#4A9EFF" font-size="13" font-family="Inter,sans-serif" font-weight="700">ML Cluster</text>
-      <text x="285" y="103" text-anchor="middle" fill="#6b80a0" font-size="12" font-family="Inter,sans-serif">Search relevance</text>
-
-      <rect x="232" y="130" width="106" height="40" rx="7" fill="#0d1e38" stroke="#4A9EFF" stroke-width="1.5"/>
-      <text x="285" y="148" text-anchor="middle" fill="#4A9EFF" font-size="13" font-family="Inter,sans-serif" font-weight="700">ML Cluster</text>
-      <text x="285" y="163" text-anchor="middle" fill="#6b80a0" font-size="12" font-family="Inter,sans-serif">Fraud detection</text>
-
-      <rect x="232" y="190" width="106" height="40" rx="7" fill="#0d1e38" stroke="#4A9EFF" stroke-width="1.5"/>
-      <text x="285" y="208" text-anchor="middle" fill="#4A9EFF" font-size="13" font-family="Inter,sans-serif" font-weight="700">ML Cluster</text>
-      <text x="285" y="223" text-anchor="middle" fill="#6b80a0" font-size="12" font-family="Inter,sans-serif">Personalization</text>
-
-      <text x="285" y="262" text-anchor="middle" fill="#6b80a0" font-size="13" font-family="Inter,sans-serif">1000s of clusters…</text>
-
-      <!-- Arrows: services → ML clusters (bright blue) -->
-      <line x1="110" y1="49"  x2="229" y2="30"  stroke="#4A9EFF" stroke-width="1.4" stroke-dasharray="4,3" marker-end="url(#arr-ml)"/>
-      <line x1="110" y1="109" x2="229" y2="90"  stroke="#4A9EFF" stroke-width="1.4" stroke-dasharray="4,3" marker-end="url(#arr-ml)"/>
-      <line x1="110" y1="169" x2="229" y2="150" stroke="#4A9EFF" stroke-width="1.4" stroke-dasharray="4,3" marker-end="url(#arr-ml)"/>
-      <line x1="110" y1="229" x2="229" y2="210" stroke="#4A9EFF" stroke-width="1.4" stroke-dasharray="4,3" marker-end="url(#arr-ml)"/>
-    </svg>
   </div>
 </section>
 
@@ -419,7 +361,7 @@
 ═══════════════════════════════════════ -->
 <section class="slide">
   <div class="label">The Routing Problem</div>
-  <h2>The Naive Solution</h2>
+  <h2>The Problem with Hardcoding — and the Fix</h2>
   <div class="two-col" style="margin-top:32px;grid-template-columns:1fr auto 1fr;">
     <div class="naive-col bad">
       <h3 class="red-h">❌ Hardcode the address</h3>
