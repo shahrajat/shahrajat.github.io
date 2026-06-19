@@ -14,8 +14,7 @@ title: Rajat Shah
       Before this, I was at Amazon, Morgan Stanley, and Goldman Sachs.
     </p>
     <p class="lead">
-      I like building things that work at scale, and sometimes
-      <a href="/writing">write</a> about what I pick up along the way.
+      I like building things that work at scale, and sometimes write about what I pick up along the way.
     </p>
     <div class="hero-links">
       <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">
@@ -40,23 +39,25 @@ title: Rajat Shah
   </div>
 
   <div class="section">
-    <h2 class="section-title">Things I've worked on</h2>
-    <div class="card-grid">
-      <a href="/work" class="card" style="text-decoration: none; color: inherit;">
-        <h3>ML Inference at Netflix</h3>
-        <p>The platform that serves model predictions for recommendations, search, ads, and personalization across Netflix.</p>
-        <span class="meta">Infrastructure &middot; ML Systems</span>
-      </a>
-      <a href="/work" class="card" style="text-decoration: none; color: inherit;">
-        <h3>Amazon Gather</h3>
-        <p>A virtual events platform I built as a side project during the pandemic. Won the Just Do It Award from Jeff Bezos for it.</p>
-        <span class="meta">Full-Stack &middot; Side Project</span>
-      </a>
-      <a href="/research" class="card" style="text-decoration: none; color: inherit;">
-        <h3>Research</h3>
-        <p>Papers on deep learning for automated grading (EDM 2016) and screenshot analysis (IEEE 2017) from grad school at NC State.</p>
-        <span class="meta">Deep Learning &middot; NLP &middot; Computer Vision</span>
-      </a>
-    </div>
+    <h2 class="section-title">Writing</h2>
+    <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="post-list-item">
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <time>{{ post.date | date: "%b %Y" }}</time>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">More</h2>
+    <p class="more-links">
+      <a href="/projects">Projects</a>
+      <span class="dot">&middot;</span>
+      <a href="/research">Research</a>
+      <span class="dot">&middot;</span>
+      <a href="/work">Work history</a>
+    </p>
   </div>
 </div>
