@@ -459,6 +459,17 @@ blockquote {
   flex-shrink: 0;
 }
 
+.more-links {
+  font-size: 0.95rem;
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+.more-links .dot {
+  color: var(--color-text-muted);
+  margin: 0 6px;
+}
+
 /* ===== Blog Post Content ===== */
 
 .post-header {
