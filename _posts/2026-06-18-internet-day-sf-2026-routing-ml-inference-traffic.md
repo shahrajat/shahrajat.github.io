@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talk at Internet Day SF 2026: Routing ML Inference Traffic at Internet Scale"
+title: "Talk at Internet Day SF 2026"
 tags:
   - talks
   - ml
@@ -8,12 +8,15 @@ tags:
 published: true
 ---
 
-I gave a talk at [Internet Day SF 2026](https://internetdaysf.org/), hosted by the SF Bay Area ACM chapter, on how we route ML inference traffic at Netflix.
+Last week I spoke at [Internet Day SF 2026](https://internetdaysf.org/), put on by the SF Bay Area ACM chapter. My talk was on how we route ML inference traffic at Netflix.
 
-The talk walks through what happens behind the scenes every time someone opens Netflix — how a single request finds the right ML model, on the right cluster, at roughly a million inference requests per second. I cover why this turns out to be a hard problem (thousands of clusters, many model versions, constantly shifting topology), why protocol choice (REST vs gRPC) ended up shaping the whole architecture, and the trade-offs between routing through a central API gateway versus a service-mesh sidecar pattern with Envoy.
+I tried to keep it accessible: start from "you open Netflix, a model picks what you see," and then peel back what it actually takes to make that work at around a million inference requests per second. The middle of the talk gets into why REST vs gRPC mattered more than I expected, and the last third compares the API gateway approach we started with against the sidecar + Envoy setup we ended up on, and why we switched.
+
+Links:
 
 - Slides: [shahrajat.com/internet-day](https://shahrajat.com/internet-day/#1)
-- Recording: [youtu.be/FQZg5RAskgM?t=1503](https://youtu.be/FQZg5RAskgM?t=1503)
-- Conference: [internetdaysf.org](https://internetdaysf.org/)
+- Recording (jumps to my segment): [youtu.be/FQZg5RAskgM?t=1503](https://youtu.be/FQZg5RAskgM?t=1503)
 
-If you want the deeper write-up of the same system, the Netflix Tech Blog post on the [State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741) is a good companion read.
+If you want the longer version of the same system, I co-authored a [Netflix Tech Blog post](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741) on it earlier this year.
+
+Thanks to the SF ACM folks for organizing — it was a fun crowd to present to.
