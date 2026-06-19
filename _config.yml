@@ -10,6 +10,7 @@ description: Staff Software Engineer building ML infrastructure at scale
 
 navbar-links:
   Work: "work"
+  Projects: "projects"
   About: "aboutme"
   Resume: "https://shahrajat.github.io/resume.pdf"
 
