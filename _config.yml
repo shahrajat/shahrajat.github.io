@@ -1,10 +1,16 @@
 # --- Site --- #
 
-url: "https://shahrajat.github.io"
+url: "https://shahrajat.com"
 baseurl: ""
 
 title: Rajat Shah
-description: Staff Software Engineer building ML infrastructure at scale
+tagline: Staff Software Engineer at Netflix
+description: >-
+  Rajat Shah is a Staff Software Engineer at Netflix working on the Model
+  Inference Platform. Previously at Amazon, Morgan Stanley, and Goldman Sachs.
+  M.S. Computer Science, NC State.
+lang: en_US
+logo: /img/profile.jpeg
 
 # --- Navigation --- #
 
@@ -21,6 +27,13 @@ author:
   email: "hi@shahrajat.com"
   github: shahrajat
   linkedin: in/rajatsshah
+
+social:
+  name: Rajat Shah
+  links:
+    - https://www.linkedin.com/in/rajatsshah/
+    - https://github.com/shahrajat
+    - https://scholar.google.com/citations?user=jWRJqCcAAAAJ&hl=en
 
 # --- Build --- #
 
@@ -59,3 +72,4 @@ exclude:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
