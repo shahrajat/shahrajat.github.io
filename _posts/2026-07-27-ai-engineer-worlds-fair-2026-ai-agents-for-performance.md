@@ -17,6 +17,8 @@ So my team built an agent to close that loop: take a call stack, trace it to the
 
 The talk walks through that case end to end, and then the more interesting part: the same antipattern showed up independently in seven other services in a single session, which is why it's worth building a shared catalog of these patterns instead of rediscovering them one service at a time - and why that catalog could eventually catch this stuff in coding agents before it ever ships.
 
-- Recording: [youtube.com/watch?v=CgsWxRUY5Eo](https://www.youtube.com/watch?v=CgsWxRUY5Eo)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 6px; margin: 1.5rem 0;">
+  <iframe src="https://www.youtube.com/embed/CgsWxRUY5Eo" title="AI Agents for Performance: Ship Faster, Pay Less - Rajat Shah, Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 Happy to chat if you're working on anything similar.
