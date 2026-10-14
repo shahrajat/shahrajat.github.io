@@ -9,12 +9,12 @@ tags:
 published: true
 ---
 
-This was my first in-person talk, and it was a big one. [WeAreDevelopers World Congress North America](https://www.wearedevelopers.com/world-congress-north-america) brings together more than 10,000 builders, and I got to speak there on September 24. My talk was called "The Autonomous Performance Agent: A Netflix Production Story."
+Last week I gave my first in-person talk, and I was pretty nervous about it. It was at [WeAreDevelopers World Congress North America](https://www.wearedevelopers.com/world-congress-north-america), a conference with more than 10,000 builders attending. The talk was called "The Autonomous Performance Agent: A Netflix Production Story."
 
-It is about an agent we built at Netflix that keeps profiling live services in production and proposes code fixes for the inefficiencies it finds. Each fix is validated before it goes out, so the goal is to catch wasted CPU and slow code early instead of letting it sit in production for months.
+It's about an agent my team built at Netflix. It keeps profiling live services in production and suggests code fixes for the slow spots it finds. Every fix gets validated before it goes out, so we catch wasted CPU early instead of finding it months later.
 
-It was a great experience to share this with such a large room of people who are building and shipping AI systems every day.
+Standing in front of that many people who build and ship this stuff every day was a great experience. I met a lot of people and got plenty of good questions afterwards.
 
 You can watch the recording on the [WeAreDevelopers site](https://www.wearedevelopers.com/videos/100585-the-autonomous-performance-agent-a-netflix-production-story).
 
-I covered a similar topic at the AI Engineer World's Fair, which I wrote about [here]({% post_url 2026-07-27-ai-engineer-worlds-fair-2026-ai-agents-for-performance %}).
+I talked about a similar topic at the AI Engineer World's Fair earlier this year. I wrote about that [here]({% post_url 2026-07-27-ai-engineer-worlds-fair-2026-ai-agents-for-performance %}).
