@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-This was my first in-person talk at a major conference, and it was a big one. [WeAreDevelopers World Congress North America](https://www.wearedevelopers.com/world-congress-north-america) brings together more than 10,000 builders, and I got to speak there on September 24. My talk was called "The Autonomous Performance Agent: A Netflix Production Story."
+This was my first in-person talk, and it was a big one. [WeAreDevelopers World Congress North America](https://www.wearedevelopers.com/world-congress-north-america) brings together more than 10,000 builders, and I got to speak there on September 24. My talk was called "The Autonomous Performance Agent: A Netflix Production Story."
 
 It is about an agent we built at Netflix that keeps profiling live services in production and proposes code fixes for the inefficiencies it finds. Each fix is validated before it goes out, so the goal is to catch wasted CPU and slow code early instead of letting it sit in production for months.
 
