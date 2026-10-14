@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-On September 24 I gave my first in-person talk. It was at [WeAreDevelopers World Congress North America](https://www.wearedevelopers.com/world-congress-north-america), a conference with more than 10,000 builders attending. The talk was called "The Autonomous Performance Agent: A Netflix Production Story."
+On September 24 I gave my first in-person talk in the USA at a major tech conference, [WeAreDevelopers World Congress North America](https://www.wearedevelopers.com/world-congress-north-america), which had more than 10,000 builders attending. The talk was called "The Autonomous Performance Agent: A Netflix Production Story."
 
 It's about an agent my team built at Netflix. It keeps profiling live services in production and suggests code fixes for the slow spots it finds. Every fix gets validated before it goes out, so we catch wasted CPU early instead of finding it months later.
 
