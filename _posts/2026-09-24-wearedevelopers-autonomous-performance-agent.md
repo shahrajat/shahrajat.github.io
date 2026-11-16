@@ -9,14 +9,14 @@ tags:
 published: true
 ---
 
-On September 24 I gave my first in-person talk in the USA at a major tech conference, [WeAreDevelopers World Congress North America](https://www.wearedevelopers.com/world-congress-north-america). It was the very first edition of the conference in North America, and more than 10,000 builders attended. The talk was called "The Autonomous Performance Agent: A Netflix Production Story."
+On September 24 I did my first in-person talk in the US. It was [WeAreDevelopers World Congress North America](https://www.wearedevelopers.com/world-congress-north-america), the first time they have run the conference here, and more than 10,000 people came through. I called it "The Autonomous Performance Agent: A Netflix Production Story."
 
 ![Rajat Shah on the WeAreDevelopers outdoor stage, with the Autonomous Performance Agent slide]({{ site.baseurl }}/assets/wearedevelopers-outdoor-stage-2026.jpg)
 
-It's about an agent my team built at Netflix. It keeps profiling live services in production and suggests code fixes for the slow spots it finds. Every fix gets validated before it goes out, so we catch wasted CPU early instead of finding it months later.
+The agent is one my team built at Netflix. It keeps profiling live services and suggests code fixes for the slow spots it finds. Every fix still gets validated before it goes out. If you leave that to someone noticing it later, the wasted CPU just sits there for months.
 
-Standing in front of that many people who build and ship this stuff every day was a great experience. I met a lot of people and got plenty of good questions afterwards.
+Outdoor stage, a very big screen, and a lot of people who ship this kind of thing. I hung around after. The questions were good.
 
-You can watch the recording on the [WeAreDevelopers site](https://www.wearedevelopers.com/videos/100585-the-autonomous-performance-agent-a-netflix-production-story).
+Recording, if you want it: [The Autonomous Performance Agent](https://www.wearedevelopers.com/videos/100585-the-autonomous-performance-agent-a-netflix-production-story).
 
-I talked about a similar topic at the AI Engineer World's Fair earlier this year. I wrote about that [here]({% post_url 2026-07-27-ai-engineer-worlds-fair-2026-ai-agents-for-performance %}).
+I talked about the same agent earlier this year at the AI Engineer World's Fair. That one is [here]({% post_url 2026-07-27-ai-engineer-worlds-fair-2026-ai-agents-for-performance %}).
