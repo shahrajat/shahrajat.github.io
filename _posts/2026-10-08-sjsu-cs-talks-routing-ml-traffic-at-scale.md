@@ -15,7 +15,7 @@ The hardest part of the evening was parking. The official university garage is n
 
 It was a mixed room, which I liked. First-year undergrads, masters students in their last year, other professors, and the head of the department was there too. You end up explaining how two services talk, and then someone asks what actually breaks.
 
-![Speaking at San Jose State, with the "every time you open Netflix" slide up]({{ site.baseurl }}/assets/sjsu-cs-talk-2026.jpg)
+![Speaking at San Jose State, with students filling the room]({{ site.baseurl }}/assets/sjsu-cs-talk-2026.jpg)
 
 Short version of that first half, since the questions were about it. Callers don't hardcode a cluster. They name a use case, Lightbulb turns that plus a bit of context into a routing key, and the payload goes straight to the model. The Envoy sidecar, the access-side proxy, routes on the header. Its route table was already pushed by the control plane. Lightbulb is the lookup before the call, not a hop the bytes go through.
 
