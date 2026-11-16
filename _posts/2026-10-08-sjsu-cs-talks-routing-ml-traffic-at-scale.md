@@ -39,6 +39,6 @@ One student asked the failure case I was hoping someone would ask. If Lightbulb 
 
 The other questions that ran long were about the agent workflow. Students already know an agent can one-shot a whole change, and they asked how I still understand the code when that is true.
 
-What I told them is pretty ordinary. I start in plan mode and talk through the approach with the agent until the proposal makes sense to me, before anything is written. Brainstorming first, not a finished artifact that I then have to reverse. Once there is a diff, I read it line by line, including the boring lines. If I can't say why a line is there, I don't take it. The model will sound done either way.
+What I told them is pretty ordinary. I start in plan mode and stay there until the agent and I agree on what we are trying to accomplish. I use a grill-me pass for that. It keeps questioning the plan, one thing at a time, until the proposal is one I actually understand. I trust the change a lot more once that alignment is there, before it goes off and writes the whole thing.
 
 Slides: [Routing ML Traffic at Scale](https://drive.google.com/file/d/1kmmAk8UOxzkQ9PlMCjHhjEUOGnYYQr7O/view).
