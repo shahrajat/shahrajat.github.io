@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talk at Internet Day SF 2026"
+title: "Routing a million ML requests a second, at Internet Day SF"
 tags:
   - talks
   - ml

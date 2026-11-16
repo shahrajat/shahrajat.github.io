@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talk at AI Engineer World's Fair 2026"
+title: "A quadratic bug the review missed, at the AI Engineer World's Fair"
 tags:
   - talks
   - ai

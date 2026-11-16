@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talk at WeAreDevelopers World Congress 2026"
+title: "My first in-person talk in the US, at WeAreDevelopers"
 tags:
   - talks
   - ai
