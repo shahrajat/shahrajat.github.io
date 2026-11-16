@@ -13,7 +13,7 @@ On October 8, Professor [Genya Ishigaki](https://www.sjsu.edu/people/genya.ishig
 
 The hardest part of the evening was parking. The official university garage is not easy to get around, the spots are very small, and a lot of them are compact. Talk was in the evening and there was a homecoming party going on, so the traffic getting in was worse than I had counted on. I was still happy to see a good chunk of students show up.
 
-It was a mixed room, which I liked. First-year undergrads, masters students in their last year, other professors, and the head of the department was there too.
+It was a mixed room, which I liked. First-year undergrads, masters students in their last year, other professors, and Professor Chris Pollett, the current computer science department chair, was there too.
 
 Before I started, I asked how many of them had not taken a machine learning class. **Not a single hand.** Then I asked how many had not taken a computer networks class, and **at least four hands went up.** Professor Ishigaki teaches computer networks, so he chuckled. It was funny, and it also said something. These students are taking the machine learning and AI courses before a fundamentals class like computer networks.
 
