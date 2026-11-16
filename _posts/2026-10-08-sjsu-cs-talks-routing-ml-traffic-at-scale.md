@@ -41,4 +41,4 @@ The other questions that ran long were about the agent workflow. Students alread
 
 What I told them is pretty ordinary. I start in plan mode and talk through the approach with the agent until the proposal makes sense to me, before anything is written. Brainstorming first, not a finished artifact that I then have to reverse. Once there is a diff, I read it line by line, including the boring lines. If I can't say why a line is there, I don't take it. The model will sound done either way.
 
-Slides: [Routing ML Traffic at Scale](https://drive.google.com/file/d/1kmmAk8UOxzkQ9PlMCjHhjEUOGnYYQr7O/view). Same routing writeup, shorter, from [Internet Day SF]({% post_url 2026-06-18-internet-day-sf-2026-routing-ml-inference-traffic %}).
+Slides: [Routing ML Traffic at Scale](https://drive.google.com/file/d/1kmmAk8UOxzkQ9PlMCjHhjEUOGnYYQr7O/view).
