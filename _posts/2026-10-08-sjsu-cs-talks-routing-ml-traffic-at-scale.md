@@ -21,7 +21,7 @@ Before I started, I asked how many of them had not taken a machine learning clas
 
 The talk itself was an hour. Short version of the routing part, since the questions later were about it. Callers don't hardcode a cluster. They name a use case, Lightbulb turns that plus a bit of context into a routing key, and the payload goes straight to the model. The Envoy sidecar, the access-side proxy, routes on the header. Its route table was already pushed by the control plane. Lightbulb is the lookup before the call, not a hop the bytes go through.
 
-The last 15 minutes of the hour I spent on coding agents. That was already top of mind for the students. I had a slide from a real session for this. The agent agrees it was wrong, fixes the record, and then later in the same session catches itself doing the same thing again. The line I circled got a real laugh: "I have a memory rule for precisely this and ignored it."
+The last 15 minutes of the hour I spent on coding agents. That was already top of mind for the students. The screenshots below are real ones I took from my own coding sessions. I showed them because this is the failure that actually shows up in the work, and it is easy to miss if you only hear a tidy story about it. The agent agrees it was wrong, fixes the record, and then later in the same session catches itself doing the same thing again. It sounds finished the whole time. The line I circled got a real laugh: "I have a memory rule for precisely this and ignored it."
 
 ![The agent admits both claims were wrong]({{ site.baseurl }}/assets/sjsu-proof-1.png)
 
