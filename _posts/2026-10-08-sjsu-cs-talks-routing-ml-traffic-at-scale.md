@@ -15,13 +15,13 @@ The hardest part of the evening was parking. The official university garage is n
 
 It was a mixed room, which I liked. First-year undergrads, masters students in their last year, other professors, and the head of the department was there too.
 
-Before I started, I asked how many of them had not taken a machine learning class. Not a single hand. Then I asked how many had not taken a computer networks class, and at least four hands went up. Professor Ishigaki teaches computer networks, so he chuckled. It was funny, and it also said something. These students are taking the machine learning and AI courses before a fundamentals class like computer networks.
+Before I started, I asked how many of them had not taken a machine learning class. **Not a single hand.** Then I asked how many had not taken a computer networks class, and **at least four hands went up.** Professor Ishigaki teaches computer networks, so he chuckled. It was funny, and it also said something. These students are taking the machine learning and AI courses before a fundamentals class like computer networks.
 
 ![Speaking at San Jose State, with students filling the room]({{ site.baseurl }}/assets/sjsu-cs-talk-2026.jpg)
 
 The talk itself was an hour. Short version of the routing part, since the questions later were about it. Callers don't hardcode a cluster. They name a use case, Lightbulb turns that plus a bit of context into a routing key, and the payload goes straight to the model. The Envoy sidecar, the access-side proxy, routes on the header. Its route table was already pushed by the control plane. Lightbulb is the lookup before the call, not a hop the bytes go through.
 
-The last 15 minutes of the hour I spent on coding agents. That was already top of mind for the students. The screenshots below are real ones I took from my own coding sessions. I showed them because this is the failure that actually shows up in the work, and it is easy to miss if you only hear a tidy story about it. The agent agrees it was wrong, fixes the record, and then later in the same session catches itself doing the same thing again. It sounds finished the whole time. The line I circled got a real laugh: "I have a memory rule for precisely this and ignored it."
+The last 15 minutes of the hour I spent on coding agents. That was already top of mind for the students. **The screenshots below are real ones I took from my own coding sessions.** I showed them because this is the failure that actually shows up in the work, and it is easy to miss if you only hear a tidy story about it. The agent agrees it was wrong, fixes the record, and then later in the same session catches itself doing the same thing again. It sounds finished the whole time. The line I circled got a real laugh: **"I have a memory rule for precisely this and ignored it."**
 
 ![The agent admits both claims were wrong]({{ site.baseurl }}/assets/sjsu-proof-1.png)
 
@@ -39,6 +39,6 @@ One student asked the failure case I was hoping someone would ask. If Lightbulb 
 
 The other questions that ran long were about the agent workflow. Students already know an agent can one-shot a whole change, and they asked how I still understand the code when that is true.
 
-What I told them is pretty ordinary. I start in plan mode and stay there until the agent and I agree on what we are trying to accomplish. I use a grill-me pass for that. It keeps questioning the plan, one thing at a time, until the proposal is one I actually understand. I trust the change a lot more once that alignment is there, before it goes off and writes the whole thing.
+What I told them is pretty ordinary. I start in plan mode and stay there until the agent and I agree on what we are trying to accomplish. I use a grill-me pass for that. It keeps questioning the plan, one thing at a time, until the proposal is one I actually understand. **I trust the change a lot more once that alignment is there**, before it goes off and writes the whole thing.
 
 Slides: [Routing ML Traffic at Scale](https://drive.google.com/file/d/1kmmAk8UOxzkQ9PlMCjHhjEUOGnYYQr7O/view).
