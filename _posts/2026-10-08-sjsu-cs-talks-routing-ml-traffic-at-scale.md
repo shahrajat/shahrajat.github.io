@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-On October 8, Professor [Genya Ishigaki](https://www.sjsu.edu/people/genya.ishigaki/) invited me to speak in the CS Talks Series at San Jose State. I called it "Routing ML Traffic at Scale." Most of the talk was the same system we wrote up on the Netflix Tech Blog, [State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741), just walked through out loud.
+On October 8, Professor [Genya Ishigaki](https://www.sjsu.edu/people/genya.ishigaki/) invited me to speak in the CS Talks Series at San Jose State. I called it "Routing ML Traffic at Scale." It was an honor to present it in front of the professors and students there. Most of the talk was the same system we wrote up on the Netflix Tech Blog, [State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741), just walked through out loud.
 
 The hardest part of the evening was parking. The official university garage is not easy to get around, the spots are very small, and a lot of them are compact. Talk was in the evening and there was a homecoming party going on, so the traffic getting in was worse than I had counted on. I was still happy to see a good chunk of students show up.
 
